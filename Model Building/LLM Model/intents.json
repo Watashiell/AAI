@@ -1,0 +1,2196 @@
+{
+    "intents": [
+        {
+            "tag": "pengertian_gempa",
+            "patterns": [
+                "Apa itu gempa bumi?",
+                "Jelaskan gempa bumi",
+                "Pengertian dari gempa bumi",
+                "Gempa bumi itu apa?",
+                "Pengertian gempa bumi",
+                "Gempa bumi adalah",
+                "Apa yang dimaksud dengan gempa bumi",
+                "Berikan saya definisi gempa bumi",
+                "Apa sih yang dimaksud dengan gempa",
+                "Apa sih gempa",
+                "Defini gempa",
+                "Gempa itu apa",
+                "Berikan saya maksud dari gempa",
+                "Gempa adalah",
+                "Penjelasan mengenai gempa"
+            ],
+            "responses": [
+                "Gempa bumi adalah getaran atau getar-getar yang terjadi di permukaan bumi akibat pelepasan energi dari dalam secara tiba-tiba yang menciptakan gelombang seismik."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "penyebab_gempa",
+            "patterns": [
+                "Kenapa gempa bumi bisa terjadi",
+                "Penyebab gempa",
+                "Alasan gempa bumi terjadi",
+                "Mengapa terjadi gempa?",
+                "Apakah faktor-faktor penyebab gempa?",
+                "Bagaimana proses terjadinya gempa bumi?",
+                "Faktor-faktor yang mempengaruhi terjadinya gempa",
+                "Apa yang menyebabkan terjadinya gempa bumi?",
+                "Faktor apa yang memicu terjadinya gempa?",
+                "Kok gempa bisa terjadi",
+                "Kenapa gempa bisa terjadi",
+                "Apa saja yang membuat terjadinya gempa",
+                "Apa saja faktor terjadi gempa",
+                "Kok bisa ada gempa"
+            ],
+            "responses": [
+                "Gempa bumi dapat dikategorikan menjadi gempa bumi yang terjadi secara alami dan gempa bumi yang disebabkan oleh manusia. Secara umum gempa bumi yang kita alami disebut dengan gempa bumi alami dan penyebab terjadinya gempa bumi tersebut juga dapat dibedakan menjadi gempa tektonik, gempa vulkanik gempa dampak. Dari semua penyebab tersebut, gempa bumi sebagian besar disebabkan oleh deformasi kerak bumi (gempa tektonik) yang disebabkan oleh pergerakan lempeng."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "jenis_gempa",
+            "patterns": [
+                "Jenis-jenis gempa bumi apa saja?",
+                "Jenis gempa",
+                "Jenis jenis gempa bumi",
+                "Apa saja klasifikasi gempa bumi?",
+                "klasifikasi gempa",
+                "Apa saja klasifikasi gempa",
+                "Gempa bumi memiliki klasifikasi apa saja?",
+                "Klasifkasi gempa bumi",
+                "Kategori gempa",
+                "Jenis gempa berdasarkan penyebab",
+                "Jelaskan jenis jenis gempa",
+                "Sebutkan jenis gempa",
+                "Apa saja jenis gempa",
+                "Berapa banyak jenis gempa",
+                "Jenis gempa itu ada berapa",
+                "Berikan saya jenis gempa"
+            ],
+            "responses": [
+                "Ada beberapa jenis gempa bumi yang berbeda. Gempa bumi dibagi berdasarkan penyebabnya menjadi gempa bumi tektonik, gempa bumi vulkanik, gempa bumi dampak meteorit, dan gempa bumi buatan."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "gempa_tektonik",
+            "patterns": [
+                "Apa itu gempa tektonik",
+                "Pengertian gempa tektonik",
+                "Jelaskan gempa tektonik",
+                "Gempa tektonik adalah",
+                "Gempa tektonik apa",
+                "Apa yang dimaksud dengan gempa tektonik",
+                "Berikan saya definisi gempa tektonik",
+                "Apa sih yang dimaksud dengan gempa tektonik",
+                "Bagaimana gempa tektonik terjadi",
+                "Jelaskan apa yang dimaksud dengan gempa tektonik",
+                "Defini gempa tektonik",
+                "Jelaskan gempa tektonk",
+                "Pengertian dari gempa tektonik",
+                "Gempa tektonik itu apa?",
+                "Apa sih gempa tektonik",
+                "Gempa tektonik itu apa",
+                "Berikan saya maksud dari gempa tektonik",
+                "Penjelasan mengenai gempa tektonik"
+            ],
+            "responses": [
+                "Gempa tektonik terjadi akibat pergerakan relatif antara lempeng tektonik di bawah permukaan bumi. Ketika tekanan yang terakumulasi dilepaskan, hal itu menghasilkan getaran yang dirasakan sebagai gempa. Gempa tektonik sering terjadi di daerah perbatasan lempeng tektonik karena adanya gesekan antara lempeng tersebut"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "gempa_vulkanik",
+            "patterns": [
+                "Apa itu gempa vulkanik",
+                "Pengertian gempa vulkanik",
+                "Jelaskan gempa vulkanik",
+                "Gempa vulkanik adalah",
+                "Gempa vulkanik apa",
+                "Apa yang dimaksud dengan gempa vulkanik",
+                "Berikan saya definisi gempa vulkanik",
+                "Apa sih yang dimaksud dengan gempa vulkanik",
+                "Bagaimana gempa vulkanik terjadi",
+                "Defini gempa vulkanik",
+                "Pengertian dari gempa vulkanik",
+                "Gempa vulkanik itu apa?",
+                "Apa sih gempa vulkanik",
+                "Gempa vulkanik itu apa",
+                "Berikan saya maksud dari gempa vulkanik",
+                "Penjelasan mengenai gempa vulkanik"
+            ],
+            "responses": [
+                "Gempa vulkanik terjadi ketika aktivitas vulkanik menyebabkan pelepasan energi di bawah permukaan bumi. Ini sering terjadi di dekat gunung api aktif dan disebabkan oleh pergerakan magma di dalam kerak bumi. Faktor-faktor yang mempengaruhi terjadinya gempa vulkanik meliputi tekanan magma, aktivitas vulkanik yang meningkat, dan proses meletusnya gunung api."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "gempa_dampak_meteorit",
+            "patterns": [
+                "Apa itu gempa dampak meteorit",
+                "Pengertian gempa dampak meteorit",
+                "Jelaskan gempa dampak meteorit",
+                "Gempa dampak meteorit adalah",
+                "Gempa dampak meteorit apa",
+                "Apa yang dimaksud dengan gempa dampak meteorit",
+                "Berikan saya definisi gempa dampak meteorit",
+                "Apa sih yang dimaksud dengan gempa dampak meteorit",
+                "Bagaimana gempa dampak meteorit terjadi",
+                "Defini gempa dampak meteorit",
+                "Pengertian dari gempa dampak meteorit",
+                "Gempa dampak meteorit itu apa?",
+                "Apa sih gempa dampak meteorit",
+                "Gempa dampak meteorit itu apa",
+                "Berikan saya maksud dari gempa dampak meteorit",
+                "Penjelasan mengenai gempa dampak meteorit"
+            ],
+            "responses": [
+                "Gempa dampak meteorit terjadi ketika meteorit besar menabrak permukaan bumi. Tabrakan tersebut melepaskan energi kinetik besar yang menciptakan gelombang gempa yang terasa di sekitar lokasi dampak. Meskipun kejadian ini jarang terjadi, gempa dampak meteorit dapat memiliki kekuatan yang sangat besar, tergantung pada ukuran dan kecepatan meteorit yang terlibat"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "gempa_buatan",
+            "patterns": [
+                "Apa itu gempa buatan",
+                "Pengertian gempa buatan",
+                "Jelaskan gempa buatan",
+                "Gempa buatan adalah",
+                "Gempa buatan apa",
+                "Apa yang dimaksud dengan gempa buatan",
+                "Berikan saya definisi gempa buatan",
+                "Apa sih yang dimaksud dengan gempa buatan",
+                "Bagaimana gempa buatan terjadi",
+                "Defini gempa buatan",
+                "Pengertian dari gempa buatan",
+                "Gempa buatan itu apa?",
+                "Apa sih gempa buatan",
+                "Gempa buatan itu apa",
+                "Berikan saya maksud dari gempa buatan",
+                "Penjelasan mengenai gempa buatan"
+            ],
+            "responses": [
+                "Gempa buatan terjadi akibat aktivitas manusia, seperti pengeboran minyak, penambangan, atau pengujian nuklir. Gempa ini terjadi ketika tekanan yang diberikan pada batuan di bawah permukaan bumi melebihi kekuatan batuan tersebut, yang menyebabkan terbentuknya retakan dan pelepasan energi yang menghasilkan gempa."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "skala_gempa",
+            "patterns": [
+                "Bagaimana skala gempa diukur?",
+                "Apa yang digunakan untuk mengukur kekuatan skala gempa?",
+                "Bagaimana cara menentukan skala gempa?",
+                "Apakah ada metode khusus untuk mengukur skala gempa bumi?",
+                "Cara mengukur skala gempa",
+                "Mengukur skala gempa menggunakan apa",
+                "Mengukur kekuatan gempa bumi menggunakan skala apa",
+                "Skala yang digunakan untuk mengkur gempa",
+                "Apa saja skala yang digunakan untuk mengukur kekuatan gempa bumi",
+                "Skala mengukur kekuatan gempa bumi"
+            ],
+            "responses": [
+                "Skala gempa biasanya diukur dengan menggunakan alat seismometer. Skala gempa yang digunakan adalah skala Richter yang mengukur energi yang dilepaskan oleh gempa bumi dan skala Magnitudo yang lebih umum digunakan sekarang karena dapat memberikan estimasi yang lebih akurat tentang kekuatan sebenarnya dari gempa."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "alat_ukur_gempa",
+            "patterns": [
+                "Apa saja alat ukur gempa bumi",
+                "Apa saja alat ukur gempa",
+                "Alat ukur gempa bumi",
+                "Alat ukur gempa",
+                "Apa alat yang digunakan untuk mengukur gempa?",
+                "Alat apa yang digunakan untuk mendeteksi gempa bumi?",
+                "Bagaimana cara mengukur gempa?",
+                "Seismometer adalah",
+                "Fungsi seismometer",
+                "Seismograf adalah",
+                "fungsi seismograf",
+                "Seismogram adalah",
+                "fungsi seismogram"
+            ],
+            "responses": [
+                "Seismometer merupakan sensor sensitif yang ditempatkan di dalam tanah untuk mendeteksi getaran bumi, sementara seismograf merupakan instrumen rekam yang merekam informasi dari getaran yang terdeteksi. Hasil rekaman tersebut disebut sebagai seismogram yang merupakan rekaman grafis atau digital dari aktivitas seismik yang terjadi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "richter",
+            "patterns": [
+                "Apa itu skala ritcher",
+                "Apa itu ritcher",
+                "Ritcher adalah",
+                "Skala ritcher adalah",
+                "Pengertian skala ritcher",
+                "Jelaskan skala ritcher",
+                "Skala ritcher apa",
+                "Apa yang dimaksud dengan skala ritcher",
+                "Berikan saya definisi skala ritcher",
+                "Apa sih yang dimaksud dengan skala ritcher",
+                "Apa sih skala ritcher",
+                "Definisi skala ritcher"
+            ],
+            "responses": [
+                "Skala Richter adalah metode pengukuran yang digunakan untuk menentukan kekuatan relatif gempa bumi. Skala ini mengukur energi yang dilepaskan oleh gempa dengan menggunakan logaritma berbasis amplitudo gelombang seismik. Semakin tinggi nilai dalam skala Richter, semakin besar kekuatan gempa tersebut."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "magnitudo",
+            "patterns": [
+                "Apa itu skala magnitudo",
+                "Apa itu magnitudo",
+                "magnitudo adalah",
+                "Skala magnitudo adalah",
+                "Pengertian skala magnitudo",
+                "Jelaskan skala magnitudo",
+                "Skala magnitudo apa",
+                "Apa yang dimaksud dengan skala magnitudo",
+                "Berikan saya definisi skala magnitudo",
+                "Apa sih yang dimaksud dengan skala magnitudo"
+            ],
+            "responses": [
+                "Skala Magnitudo adalah metode pengukuran yang umum digunakan untuk menentukan kekuatan sebenarnya dari gempa bumi. Skala ini mengukur energi yang dilepaskan oleh gempa berdasarkan luas permukaan retakan dan pergerakan lempeng yang terlibat dalam gempa, memberikan estimasi yang lebih akurat tentang kekuatan gempa daripada skala Richter. Skala yang digunakan untuk mengukur magnitudo gempa bumi adalah Skala Magnitudo Momen (Mw) yang tidak memiliki batas atas."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "tingkatan_skala_magnitudo",
+            "patterns": [
+                "Apa saja tingkatan skala magnitudo?",
+                "Klasifikasi tingkatan gempa bumi berdasarkan skala magnitudo?",
+                "Apakah ada sistem penilaian skala magnitudo untuk mengukur tingkatan kekuatan gempa bumi?",
+                "Kerusakan berdasarkan tingkatan skala magnitudo gempa",
+                "Magnitudo gempa dan kerusakan yang dihasilkan",
+                "Magnitudo dan kerusakannya",
+                "Tingkat gempa berdasarkan magnitudo",
+                "Tingkatan skala magnitudo"
+            ],
+            "responses": [
+                "Magnitudo 2.0 - 3.9: Gempa bumi kecil, biasanya tidak dirasakan atau dirasakan lemah oleh manusia. Magnitudo 4.0 - 4.9: Gempa bumi ringan, dapat dirasakan dan mungkin menyebabkan kerusakan ringan pada bangunan. Magnitudo 5.0 - 5.9: Gempa bumi sedang, dapat dirasakan oleh semua orang dan menyebabkan kerusakan sedang pada bangunan. Magnitudo 6.0 - 6.9: Gempa bumi kuat, dapat menyebabkan kerusakan parah pada bangunan. Magnitudo 7.0 - 7.9: Gempa bumi dahsyat, dapat menyebabkan kerusakan luas dan menimbulkan korban jiwa. Magnitudo 8.0 atau lebih: Gempa bumi megathrust, gempa bumi paling kuat yang pernah tercatat dan dapat menyebabkan kerusakan masif."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "perbedaan_skala_ritcher_dan_magnitudo",
+            "patterns": [
+                "Perbedaan skala ritcher dan magnitudo",
+                "Apa saja perbedaaan skala ritcher dan magnitudo",
+                "Sebutkan perbedaan skala ritcher dan magnitudo",
+                "Skala magnitudo dan ritcher bedannya apa",
+                "Apa saja perbedaan skala ritcher dan magnitudo",
+                "Beda skala ritcher dan magnitudo",
+                "Jelaskan perbedaan skala ritcher dan magnitudo",
+                "Beda ritcher dan magnitudo",
+                "Perbedaan ritcher dan magnitudo"
+            ],
+            "responses": [
+                "Skala Richter mengukur amplitudo gelombang seismik, yang merupakan tingkat getaran yang dideteksi oleh sensor seismik. Skala ini menggunakan nilai logaritma untuk mengukur energi yang dilepaskan oleh gempa. Sementara itu, skala Magnitudo mengestimasi kekuatan gempa berdasarkan luas permukaan retakan dan pergerakan lempeng yang terlibat. Skala ini memberikan peringkat gempa berdasarkan besar area yang terlibat dalam peristiwa gempa, sehingga memberikan gambaran lebih akurat tentang potensi kerusakan dan bahaya yang dihadapi akibat gempa tersebut."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "hiposentrum_dan_episentrum",
+            "patterns": [
+                "Apa itu hiposentrum",
+                "Hiposentrum apa",
+                "Hiposentrum adalah",
+                "Pengertian hiposentrum",
+                "Apa itu episentrum",
+                "Episentrum apa",
+                "Pengertian episentrum",
+                "Episentrum adalah",
+                "Perbedaan hiposentrum dan episentrum",
+                "Apa saja perbedaaan hiposentrum dan episentrum",
+                "Hubungan hiposentrum dan episentrum"
+            ],
+            "responses": [
+                "Hiposentrum (focus): Merupakan titik di dalam Bumi tempat gempa bumi sebenarnya terjadi.Episentrum (epicenter): Merupakan titik di permukaan Bumi yang tepat berada di atas Hiposentrum. Jadi Episentrum lebih mudah dideteksi ketimbang Hiposentrum yang menjadi titik fokus pergerakan lempeng yang menimbulkan gempa bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "dampak_gempa",
+            "patterns": [
+                "Apa saja dampak yang disebabkan oleh gempa bumi?",
+                "Bagaimana gempa bumi mempengaruhi lingkungan?",
+                "Apakah ada kerusakan fisik yang diakibatkan oleh gempa bumi?",
+                "Bagaimana infrastruktur terpengaruh oleh gempa bumi?",
+                "Apakah ada dampak langsung pada bangunan akibat gempa bumi?",
+                "Apa dampak dari gempa bumi?",
+                "Apa yang bisa terjadi akibat gempa bumi?",
+                "Apa dampak gempa bumi",
+                "Kerusakan akibat gempa bumi",
+                "Apa saja risiko yang dapat timbul akibat gempa bumi?",
+                "Dampak gempa"
+            ],
+            "responses": [
+                "Gempa bumi dapat menyebabkan dampak yang signifikan, termasuk kerusakan pada bangunan, infrastruktur, dan lingkungan fisik. Guncangan gempa dapat menyebabkan retakan pada bangunan, runtuhnya struktur, dan kerusakan pada jalan, jembatan, serta sistem transportasi lainnya. Selain itu, gempa bumi juga dapat menyebabkan perubahan pada topografi, termasuk terbentuknya retakan pada tanah dan pergeseran tanah. Dampak fisik ini sering kali membutuhkan upaya restorasi dan rekonstruksi yang besar untuk memulihkan kondisi sebelumnya."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "seismik",
+            "patterns": [
+                "Apa yang dimaksud dengan gelombang seismik?",
+                "Bagaimana gelombang seismik terbentuk?",
+                "Gelombang seismik adalah",
+                "Seismik adalah",
+                "Apa itu gelombang seismik",
+                "Pengertian gelombang seismik?",
+                "Jelaskan gelombang seismik?",
+                "gelombang seismik apa",
+                "Berikan saya definisi gelombang seismik",
+                "Apa sih yang dimaksud dengan gelombang seismik",
+                "Bagaimana gelombang seismik terjadi",
+                "Defini gelombang seismik",
+                "Jelaskan gelombang seismik",
+                "Pengertian dari gelombang seismik",
+                "gelombang seismik itu apa?",
+                "Apa sih gelombang seismik",
+                "gelombang seismik itu apa",
+                "Berikan saya maksud dari gelombang seismik",
+                "Penjelasan mengenai gelombang seismik",
+                "Gelombang seismik"
+            ],
+            "responses": [
+                "Gelombang seismik adalah gelombang energi yang merambat melalui bumi akibat dari gempa bumi, letusan gunung berapi, atau aktivitas geologi lainnya.Gelombang seismik memiliki dua jenis utama: gelombang primer (P-wave) dan gelombang sekunder (S-wave)."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "seismologi",
+            "patterns": [
+                "Apa itu seismologi?",
+                "Bagaimana definisi seismologi?",
+                "Apa yang dipelajari dalam seismologi?",
+                "seismologi adalah",
+                "Ilmu yang mempelajari gempa adalah",
+                "Ilmu mempelajari gempa bumi",
+                "Penjelasan mengenai seismologi",
+                "Apakah yang dimaksud dengan seismologi",
+                "Seismologi"
+            ],
+            "responses": [
+                "Seismologi adalah cabang ilmu geofisika yang mempelajari gempa bumi dan gelombang seismik yang dihasilkan olehnya. Ilmu ini mencakup pemahaman tentang penyebab, mekanisme, dan dampak gempa bumi, serta penggunaan teknik dan alat untuk memonitor dan menganalisis aktivitas seismik."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "P_wave",
+            "patterns": [
+                "Apa itu P-wave",
+                "Apa itu gelombang primer",
+                "P-wave adalah",
+                "gelombang primer adalah",
+                "Pengertian P-wave",
+                "Pengertian gelombang primer",
+                "Jelaskan P-wave",
+                "Jelaskan gelombang primer",
+                "Gelombang primer adalah",
+                "P-wave apa",
+                "Gelombang primer apa",
+                "Gelombang primer",
+                "P-wave",
+                "Penjelasan mengenai gelombang primer",
+                "Apa yang dimaksud dengan gelombang primer",
+                "Gelombang primer itu apa",
+                "Apasih gelombang primer",
+                "Maksud dari gelombang primer,"
+            ],
+            "responses": [
+                "Gelombang primer, atau sering disebut P-wave (Primary wave), adalah salah satu jenis gelombang seismik yang pertama kali tiba atau yang pertama terdeteksi setelah terjadi gempa bumi. Gelombang primer merupakan gelombang longitudinal, yang berarti gerakannya sejajar dengan arah perambatan gelombangnya. Gelombang ini dapat merambat melalui berbagai media, termasuk padatan, cairan, dan gas, dengan kecepatan tertentu tergantung pada sifat fisika material yang dilaluinya. P-wave biasanya merupakan gelombang seismik yang pertama kali dirasakan oleh manusia saat terjadi gempa bumi, dan memiliki kemampuan untuk merambat melalui lapisan bumi yang lebih dalam dibandingkan dengan gelombang sekunder (S-wave)."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "S_wave",
+            "patterns": [
+                "Apa itu S-wave",
+                "Apa itu gelombang sekunder",
+                "S-wave adalah",
+                "Gelombang sekunder adalah",
+                "Pengertian S-wave",
+                "Pengertian gelombang sekunder",
+                "Jelaskan S-wave",
+                "Jelaskan gelombang sekunder",
+                "S-wave apa",
+                "Gelombang sekunder apa",
+                "Gelombang sekunder",
+                "S-wave",
+                "Penjelasan mengenai gelombang sekunder",
+                "Apa yang dimaksud dengan gelombang sekunder",
+                "Gelombang sekunder itu apa",
+                "Apasih gelombang sekunder",
+                "Maksud dari gelombang sekunder,"
+            ],
+            "responses": [
+                "Gelombang sekunder, atau sering disebut S-wave (Secondary wave), adalah salah satu jenis gelombang seismik yang muncul setelah gelombang primer atau P-wave dalam rangkaian gelombang seismik yang dihasilkan oleh gempa bumi. Gelombang sekunder merupakan gelombang transversal, yang berarti gerakannya tegak lurus terhadap arah perambatan gelombangnya. Gelombang ini tidak dapat merambat melalui medium yang bersifat fluida, seperti air atau magma, dan hanya dapat merambat melalui benda padat. S-wave memiliki kecepatan yang lebih lambat dibandingkan dengan P-wave, tetapi memiliki kemampuan untuk merambat melalui bumi yang lebih dalam daripada gelombang permukaan. Gelombang sekunder sering kali menyebabkan getaran lateral yang lebih kuat daripada P-wave, sehingga dapat menyebabkan kerusakan struktural yang signifikan pada bangunan dan infrastruktur."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "tsunami",
+            "patterns": [
+                "Apa itu tsunami?",
+                "Bagaimana definisi tsunami?",
+                "Apa yang dimaksud dengan gelombang laut besar?",
+                "Bagaimana tsunami terbentuk?",
+                "tsunami adalah",
+                "tsunami apa",
+                "Jelaskan tsunami",
+                "Penjelasan mengenai tsunami",
+                "Apa yang dimaksud dengan tsunami",
+                "tsunami itu apa",
+                "Apasih tsunami",
+                "Maksud dari tsunami",
+                "Pengertian tsunami",
+                "Berikan saya definisi tsunami",
+                "Apa sih yang dimaksud dengan tsunami",
+                "Bagaimana tsunami terjadi",
+                "Defini tsunami",
+                "tsunami itu apa?",
+                "Apa sih tsunami"
+            ],
+            "responses": [
+                "Tsunami adalah gelombang laut yang sangat besar yang disebabkan oleh gangguan geologi di dasar laut, seperti gempa bumi bawah laut, letusan gunung berapi di bawah laut, longsor bawah laut, atau tabrakan meteorit di laut."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "tsunami_akibat_gempa",
+            "patterns": [
+                "Gempa bisa menyebabkan tsunami?",
+                "Bagaimana hubungan antara gempa bumi dan tsunami?",
+                "Apakah semua gempa bumi menghasilkan tsunami?",
+                "Faktor-faktor apa yang mempengaruhi apakah sebuah gempa bumi akan menyebabkan tsunami?",
+                "Bagaimana gempa menyebabkan tsunami",
+                "Apakah gempa menyebabakan tsunami",
+                "Apakah tsunami disebabkan gempa"
+            ],
+            "responses": [
+                "Gempa bumi dapat menyebabkan tsunami, tapi tidak semua gempa. Besaran magnitudo gempa menjadi salah satu faktor yang memunculkan tsunami. Menurut situs International Tsunami Information Center oleh UNESCO, tsunami yang paling merusak dihasilkan dari gempa besar dan dangkal dengan pusat gempa atau garis patahan di dekat atau di dasar laut"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "tsunami_terparah_indonesia",
+            "patterns": [
+                "Tsunami mematikan yang melanda indonesia?",
+                "Contoh tsunami parah yang pernah terjadi di indonesia?",
+                "Apakah ada tsunami yang menyebabkan kerusakan besar di indonesia?",
+                "Tsunami terparah indonesia",
+                "Tsunami dengan korban jiwa terbanyak di indonesia"
+            ],
+            "responses": [
+                "Tsunami Aceh merupakan salah satu contoh tsunami parah yang paling banyak memakan korban jiwa di Indonesia. Pada tanggal 26 Desember 2004, gempa bumi dengan magnitudo 9.1–9.3 M terjadi di lepas pantai barat Sumatera bagian utara. Tsunami yang dihasilkan dari gempa ini mengakibatkan korban jiwa sebanyak 227.898 jiwa dan tentu saja kerugian material dan infrastuktur seperti tempat tinggal, sekolah, rumah sakit dan masih banyak lagi akibat tergusur oleh air."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "bisakah_prediksi_gempa",
+            "patterns": [
+                "Apakah gempa bumi dapat diprediksi",
+                "Bisakah kita memprediksi gempa bumi",
+                "Cara memprediksi gempa",
+                "Adakah alat atau metode untuk memprediksi gempa bumi?",
+                "Bagaimana dengan prediksi gempa?",
+                "Bisakah gempa bumi diprediksi?",
+                "Apakah ada cara untuk memprediksi gempa bumi?",
+                "Adakah teknologi yang dapat digunakan untuk memprediksi gempa?",
+                "Prediksi gempa"
+            ],
+            "responses": [
+                "Tidak, tanggal pasti, tempat dan besarnya gempa bumi tidak dapat diprediksi. Namun para ahli seismologi saat ini mengembangkan peta bahaya seismik yang dapat menunjukkan kemungkinan terjadinya gempa bumi yang kuat akibat gempa tektonik untuk jangka waktu tertentu."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "bisakah_prediksi_tsunami",
+            "patterns": [
+                "Apakah tsunami dapat diprediksi?",
+                "Bisakah kita memprediksi tsunami?",
+                "Cara memprediksi tsunami",
+                "Adakah alat atau metode untuk memprediksi tsunami?",
+                "Bagaimana dengan prediksi tsunami?",
+                "Bisakah tsunami diprediksi?",
+                "Apakah ada cara untuk memprediksi tsunami?",
+                "Adakah teknologi yang dapat digunakan untuk memprediksi tsunami?",
+                "Prediksi tsunami"
+            ],
+            "responses": [
+                "Memperkirakan tsunami dengan presisi tinggi masih menantang, namun teknologi dan pemahaman kita telah berkembang pesat. Sistem pemantauan seismik global mendeteksi gempa bawah laut, sementara sensor tekanan dasar laut (DART buoys) dan stasiun pemantau pasang surut mendeteksi perubahan kecil dalam tekanan air dan level air. Data ini digunakan oleh pusat peringatan yang mengandalkan model komputer untuk memprediksi penyebaran tsunami. Meskipun teknologi ini sangat membantu, keterbatasan seperti waktu respons yang singkat untuk gempa dekat pantai dan ketidakpastian dalam menentukan gempa mana yang akan menyebabkan tsunami masih ada. Oleh karena itu, pendidikan dan latihan masyarakat juga penting untuk mengurangi risiko korban jiwa."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "hewan_prediksi_gempa",
+            "patterns": [
+                "Apakah hewan dapat memprediksi gempa?",
+                "Bisakah hewan memprediksi gempa bumi sebelum terjadi?",
+                "Apakah ada bukti bahwa hewan memprediksi gempa sebelum terjadinya gempa?",
+                "Hewan prediksi gempa",
+                "Bagaimana kemampuan hewan dalam memprediksi bencana alam?",
+                "Apakah hewan bisa prediksi terjadinya gempa bumi"
+            ],
+            "responses": [
+                "Secara ilmiah, belum ada bukti konkret yang menunjukkan bahwa hewan dapat memprediksi gempa bumi secara pasti. Namun, banyak laporan dan anekdot selama berabad-abad menunjukkan bahwa beberapa hewan menunjukkan perilaku aneh sebelum gempa bumi terjadi. Akan tetapi, tidak dianjurkan untuk hanya mengandalkan perilaku hewan untuk memprediksi gempa bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "wilayah_rawan_gempa",
+            "patterns": [
+                "Di mana saja wilayah yang rawan terhadap gempa di Indonesia?",
+                "Apa saja daerah di Indonesia yang rawan terhadap gempa bumi?",
+                "Bagaimana dengan tingkat rawan gempa di Indonesia?",
+                "Apakah Indonesia memiliki daerah yang lebih rawan terhadap gempa?",
+                "Wilayah rawan gempa",
+                "Wilayah yang sering gempa",
+                "Wilayah mana di indonesia yang sering terjadi gempa bumi"
+            ],
+            "responses": [
+                "Indonesia terletak di kawasan Cincin Api Pasifik, sebuah wilayah yang sangat aktif secara geologis dan rentan terhadap gempa bumi. Hampir seluruh wilayah Indonesia memiliki potensi untuk mengalami gempa, namun terdapat beberapa daerah yang lebih rentan dibandingkan dengan daerah lainnya. Daerah-daerah tersebut meliputi Aceh, Sumatera Utara, Sumatera Barat, Bengkulu, Lampung, Banten, Jawa Tengah, Yogyakarta, Jawa Timur, Bali, Nusa Tenggara Barat, Nusa Tenggara Timur, Sulawesi Utara, Sulawesi Tengah, Sulawesi Selatan, Maluku Utara, Maluku Selatan, Biak, Yapen, dan Fak-Fak di Papua, serta Balikpapan."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "patahan",
+            "patterns": [
+                "Apa itu patahan?",
+                "Bagaimana definisi patahan?",
+                "Apa yang dimaksud dengan patahan?",
+                "Bagaimana patahan terbentuk?",
+                "patahan adalah",
+                "patahan apa",
+                "Jelaskan patahan",
+                "Penjelasan mengenai patahan",
+                "Apa yang dimaksud dengan patahan",
+                "patahan itu apa",
+                "Apasih patahan",
+                "Maksud dari patahan",
+                "Pengertian patahan",
+                "Berikan saya definisi patahan",
+                "Apa sih yang dimaksud dengan patahan",
+                "Bagaimana patahan terjadi",
+                "Jelaskan pengertian dari patahan?",
+                "Patahan"
+            ],
+            "responses": [
+                "Patahan, atau yang disebut juga sesar, adalah retakan pada kerak bumi di mana blok batuan di kedua sisinya bergerak relatif satu sama lain. Pergerakan ini dapat terjadi secara vertikal, horizontal, atau kombinasi keduanya. Jenis-jenis patahan diklasifikasikan berdasarkan arah pergerakan batuan terhadap bidang patahan dan gaya yang menjadi penyebabnya. Jenis-jenis patahan yang terjadi di bumi adalah sebagai berikut: Patahan Naik (Thrust Fault), Patahan Normal (Normal Fault), Patahan Geser (Strike-Slip Fault), Patahan Divergen, Patahan Terbalik (Reverse Fault), Patahan Miring (Oblique-Slip Fault)."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "patahan_naik",
+            "patterns": [
+                "Apa itu patahan naik",
+                "Patahan naik adalah",
+                "Pengertian patahan naik",
+                "Jelaskan patahan naik",
+                "Patahan naik adalah?",
+                "Patahan naik apa?",
+                "Apa yang dimaksud dengan patahan naik?",
+                "Jelaskan pengertian dari patahan naik?",
+                "Bagaimana cara kerja patahan naik",
+                "Apa yang menjadi penyebab utama terjadinya patahan naik?",
+                "Bagaimana dampak dari adanya patahan naik?",
+                "Mekanisme patahan naik",
+                "Patahan naik"
+            ],
+            "responses": [
+                "Patahan naik terjadi ketika dinding gantung bergerak naik relatif terhadap dinding kaki. Hal ini disebabkan oleh gaya kompresi (tekanan) yang kuat di sepanjang bidang patahan. Patahan naik sering kali ditemukan di daerah yang mengalami penebalan kerak bumi, seperti di pegunungan atau di zona subduksi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "patahan_normal",
+            "patterns": [
+                "Apa itu patahan normal",
+                "Patahan normal adalah",
+                "Pengertian patahan normal",
+                "Jelaskan patahan normal",
+                "Patahan normal adalah?",
+                "Patahan normal apa?",
+                "Apa yang dimaksud dengan patahan normal?",
+                "Jelaskan pengertian dari patahan normal?",
+                "Bagaimana cara kerja patahan normal",
+                "Apa yang menjadi penyebab utama terjadinya patahan normal?",
+                "Bagaimana dampak dari adanya patahan normal?",
+                "Mekanisme patahan normal",
+                "Patahan normal"
+            ],
+            "responses": [
+                "Patahan normal terjadi ketika dinding gantung (hanging wall) bergerak turun relatif terhadap dinding kaki (foot wall). Hal ini disebabkan oleh gaya tensile (tarikan) yang kuat di sepanjang bidang patahan. Patahan normal sering kali ditemukan di daerah yang mengalami penipisan kerak bumi, seperti di tepi benua atau di atas gunung berapi yang runtuh."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "patahan_geser",
+            "patterns": [
+                "Apa itu patahan geser",
+                "Patahan geser adalah",
+                "Pengertian patahan geser",
+                "Jelaskan patahan geser",
+                "Patahan geser adalah?",
+                "Patahan geser apa?",
+                "Apa yang dimaksud dengan patahan geser?",
+                "Jelaskan pengertian dari patahan geser?",
+                "Bagaimana cara kerja patahan geser",
+                "Apa yang menjadi penyebab utama terjadinya patahan geser?",
+                "Bagaimana dampak dari adanya patahan geser?",
+                "Mekanisme patahan geser",
+                "Patahan geser"
+            ],
+            "responses": [
+                "Patahan ini terjadi ketika dua blok batuan bergerak sejajar dengan arah patahan, namun tidak naik atau turun. Pergerakan ini bisa berupa geser kanan atau geser kiri tergantung arah pergerakan relatif dari kedua blok. Contohnya adalah Patahan San Andreas di California."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "patahan_divergen",
+            "patterns": [
+                "Apa itu patahan divergen",
+                "Patahan divergen adalah",
+                "Pengertian patahan divergen",
+                "Jelaskan patahan divergen",
+                "Patahan divergen adalah?",
+                "Patahan divergen apa?",
+                "Apa yang dimaksud dengan patahan divergen?",
+                "Jelaskan pengertian dari patahan divergen?",
+                "Bagaimana cara kerja patahan divergen",
+                "Apa yang menjadi penyebab utama terjadinya patahan divergen?",
+                "Bagaimana dampak dari adanya patahan divergen?",
+                "Mekanisme patahan divergen",
+                "Patahan divergen"
+            ],
+            "responses": [
+                "Patahan ini adalah bentuk patahan normal yang terjadi di zona divergen, di mana dua lempeng tektonik bergerak saling menjauh. Hal ini sering terjadi di punggung tengah samudra."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "patahan_terbalik",
+            "patterns": [
+                "Apa itu patahan terbalik",
+                "Patahan terbalik adalah",
+                "Pengertian patahan terbalik",
+                "Jelaskan patahan terbalik",
+                "Patahan terbalik adalah?",
+                "Patahan terbalik apa?",
+                "Apa yang dimaksud dengan patahan terbalik?",
+                "Jelaskan pengertian dari patahan terbalik?",
+                "Bagaimana cara kerja patahan terbalik",
+                "Apa yang menjadi penyebab utama terjadinya patahan terbalik?",
+                "Bagaimana dampak dari adanya patahan terbalik?",
+                "Mekanisme patahan terbalik",
+                "Patahan terbalik"
+            ],
+            "responses": [
+                "Patahan ini mirip dengan patahan naik, tetapi dengan sudut kemiringan yang lebih curam. Blok batuan di atas bidang patahan bergerak ke atas relatif terhadap blok di bawahnya."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "patahan_miring",
+            "patterns": [
+                "Apa itu patahan miring",
+                "Patahan miring adalah",
+                "Pengertian patahan miring",
+                "Jelaskan patahan miring",
+                "Patahan miring adalah?",
+                "Patahan miring apa?",
+                "Apa yang dimaksud dengan patahan miring?",
+                "Jelaskan pengertian dari patahan miring?",
+                "Bagaimana cara kerja patahan miring",
+                "Apa yang menjadi penyebab utama terjadinya patahan miring?",
+                "Bagaimana dampak dari adanya patahan miring?",
+                "Mekanisme patahan miring",
+                "Patahan miring"
+            ],
+            "responses": [
+                "Patahan ini melibatkan komponen gerakan vertikal (seperti pada patahan normal atau terbalik) dan komponen gerakan horizontal (seperti pada patahan geser). Jadi, gerakannya merupakan kombinasi dari dua jenis pergerakan tersebut."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "gempa_akibat_patahan",
+            "patterns": [
+                "Apakah patahan bisa menyebabkan gempa bumi?",
+                "Bagaimana patahan berkaitan dengan terjadinya gempa bumi?",
+                "Apakah patahan selalu menjadi penyebab terjadinya gempa?",
+                "Apa peran patahan dalam pembentukan gempa bumi?",
+                "Bagaimana proses terjadinya gempa bumi akibat patahan?",
+                "Mengapa patahan sering dikaitkan dengan gempa bumi?",
+                "Apakah patahan menyebabkan gempa",
+                "Gempa akibat patahan"
+            ],
+            "responses": [
+                "Ya, patahan dapat menyebabkan gempa bumi. Patahan adalah retakan di kerak bumi yang terjadi ketika dua lempeng bumi bergerak relatif terhadap satu sama lain. Ketika gaya tekan kerak bumi mencapai ambang ketegangan, akumulasi energi potensial di dispersikan oleh pelepasan tegangan, yang dapat menyebabkan gempa bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "lempeng",
+            "patterns": [
+                "Apa itu lempeng",
+                "Lempeng adalah",
+                "Pengertian lempeng",
+                "Jelaskan lempeng",
+                "Lempeng adalah?",
+                "Lempeng apa?",
+                "Apa yang dimaksud dengan lempeng?",
+                "Jelaskan pengertian dari lempeng?",
+                "Apakah yang definisi lempeng",
+                "Bagaimana lempeng bisa bergerak",
+                "Kenapa lempeng bergerak"
+            ],
+            "responses": [
+                "Lempeng adalah suatu bagian dari kerak bumi yang bergerak relatif terhadap bagian lainnya. Lempeng dapat bergerak karena adanya perbedaan tekanan dan gaya yang terjadi di dalam kerak bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "lapisan_bumi",
+            "patterns": [
+                "Apa yang dimaksud dengan lapisan Bumi?",
+                "Bagaimana struktur lapisan Bumi?",
+                "Apakah yang termasuk dalam lapisan Bumi?",
+                "Jelaskan tentang komposisi lapisan-lapisan Bumi?",
+                "Bagaimana pembagian lapisan Bumi?",
+                "Apa itu lapisan bumi?",
+                "Bagaimana definisi lapisan bumi?",
+                "lapisan bumi adalah",
+                "lapisan bumi apa",
+                "Jelaskan lapisan bumi",
+                "Penjelasan mengenai lapisan bumi",
+                "lapisan bumi itu apa",
+                "Apasih lapisan bumi",
+                "Maksud dari lapisan bumi",
+                "Pengertian lapisan bumi",
+                "Berikan saya definisi lapisan bumi",
+                "Apa sih yang dimaksud dengan lapisan bumi",
+                "lapisan bumi itu apa?",
+                "Apa sih lapisan bumi"
+            ],
+            "responses": [
+                "Lapisan Bumi adalah struktur internal planet Bumi yang terdiri dari beberapa bagian utama yang berbeda dalam hal komposisi, sifat fisik, dan kedalaman. Lapisan-lapisan utama Bumi adalah: Kerak Bumi (Crust), Mantel (Mantle), dan Inti Bumi (Core)."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "kerak_bumi",
+            "patterns": [
+                "Apa yang dimaksud dengan kerak bumi?",
+                "Bagaimana definisi kerak bumi?",
+                "Kerak bumi adalah",
+                "Jelaskan pengertian kerak bumi",
+                "Apakah kerak bumi itu",
+                "Kerak bumi itu apa?",
+                "Apa itu kerak bumi?",
+                "Bagaimana definisi kerak bumi?",
+                "kerak bumi apa",
+                "Jelaskan kerak bumi",
+                "Penjelasan mengenai kerak bumi",
+                "Apasih kerak bumi",
+                "Maksud dari kerak bumi",
+                "Pengertian kerak bumi",
+                "Berikan saya definisi kerak bumi",
+                "Apa sih yang dimaksud dengan kerak bumi",
+                "kerak bumi itu apa?"
+            ],
+            "responses": [
+                "Kerak bumi adalah lapisan terluar Bumi yang terdiri dari batuan keras dan padat. Kerak bumi terbagi menjadi beberapa bagian yang disebut lempeng tektonik, yang bergerak relatif terhadap satu sama lain. Terdapat dua jenis utama kerak bumi, yaitu kerak benua dan kerak samudera."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "jenis_kerak",
+            "patterns": [
+                "Apa saja jenis kerak Bumi?",
+                "Bagaimana jenis-jenis kerak Bumi dibagi?",
+                "Apakah yang dimaksud dengan kerak benua dan kerak samudera?",
+                "Jelaskan perbedaan antara kerak benua dan kerak samudera.",
+                "Bagaimana komposisi dan struktur kerak benua?",
+                "Bagaimana komposisi dan struktur kerak samudera?",
+                "Apa saja jenis kerak bumi",
+                "Jenis kerak bumi",
+                "Apa itu kerak benua",
+                "Apa itu kerak samudera",
+                "Perbedaan kerak benua dan samudera",
+                "Sebutkan jenis kerak bumi"
+            ],
+            "responses": [
+                "Kerak bumi terdiri dari dua jenis utama yaitu, Kerak benua: memiliki ketebalan sekitar 20-70 kilometer dan tersusun atas batuan granit dan andesit. Kerak benua umumnya lebih tebal dan kurang padat dibandingkan kerak samudera. Kerak samudera: memiliki ketebalan sekitar 5-10 kilometer dan tersusun atas batuan basalt. Kerak samudera umumnya lebih tipis dan lebih padat dibandingkan kerak benua."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mantel",
+            "patterns": [
+                "Apa yang dimaksud dengan mantel?",
+                "Bagaimana definisi mantel?",
+                "mantel adalah",
+                "Jelaskan pengertian mantel",
+                "Apakah mantel itu",
+                "mantel itu apa?",
+                "Apa itu mantel?",
+                "mantel apa",
+                "Jelaskan mantel",
+                "Penjelasan mengenai mantel",
+                "Apasih mantel",
+                "Maksud dari mantel",
+                "Pengertian mantel",
+                "Berikan saya definisi mantel",
+                "Apa sih yang dimaksud dengan mantel",
+                "kerak itu apa?",
+                "mantel"
+            ],
+            "responses": [
+                "Mantel adalah lapisan yang berada di bawah kerak bumi, dengan ketebalan sekitar 2.900 kilometer. Mantel tersusun atas batuan padat yang bersifat plastis dan panas. Mantel dibagi menjadi dua bagian, yaitu mantel atas dan mantel bawah."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "inti",
+            "patterns": [
+                "Apa yang dimaksud dengan inti bumi?",
+                "Bagaimana definisi inti bumi?",
+                "inti bumi adalah",
+                "Jelaskan pengertian inti bumi",
+                "Apakah inti bumi itu",
+                "inti bumi itu apa?",
+                "Apa itu inti bumi?",
+                "inti bumi apa",
+                "Jelaskan inti bumi",
+                "Penjelasan mengenai inti bumi",
+                "Apasih inti bumi",
+                "Maksud dari inti bumi",
+                "Pengertian inti bumi",
+                "Berikan saya definisi inti bumi",
+                "Apa sih yang dimaksud dengan inti bumi",
+                "inti bumi"
+            ],
+            "responses": [
+                "Inti bumi adalah lapisan terdalam Bumi, dengan radius sekitar 3.400 kilometer. Inti bumi terbagi menjadi dua bagian: inti luar dan inti dalam. Inti luar bersifat cair dan menghasilkan medan magnet Bumi, sedangkan inti dalam bersifat padat dan berputar lebih cepat dibandingkan inti luar."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitigasi",
+            "patterns": [
+                "Pengertian mitigasi gempa",
+                "Apa yang dimaksud dengan mitigasi?",
+                "Bagaimana definisi mitigasi?",
+                "Pengertian mitigasi",
+                "Apakah yang dimaksud dengan mitigasi dalam konteks bencana alam?",
+                "Mitigasi gempa apa",
+                "Mitigasi apa",
+                "Pengertian dari mitigasi gempa bumi",
+                "Jelaskan mitigasi gempa",
+                "Apa itu mitigasi gempa",
+                "Mitigasi adalah",
+                "Penjelasan mengenai mitigasi gempa",
+                "Apa yang dimaksud dengan mitigasi",
+                "mitigasi gempa itu apa",
+                "Apasih mitigasi",
+                "Maksud dari mitigasi"
+            ],
+            "responses": [
+                "Mitigasi berarti upaya untuk mengurangi risiko terhadap suatu bencana. Dalam konteks bencana alam seperti gempa bumi, mitigasi gempa bumi adalah serangkaian langkah-langkah yang dilakukan untuk mengurangi dampak yang ditimbulkan oleh gempa bumi. Mitigasi gempa bumi dapat dilakukan sebelum, saat, dan sesudah gempa bumi terjadi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "persiapan",
+            "patterns": [
+                "Apa yang harus dilakukan sebelum terjadinya gempa bumi?",
+                "Bagaimana langkah-langkah persiapan sebelum gempa bumi?",
+                "Apakah ada tindakan khusus yang harus dilakukan sebelum gempa?",
+                "Bagaimana cara mempersiapkan diri sebelum terjadi gempa bumi?",
+                "Persiapan gempa bumi",
+                "Yang harus dilakukan sebelum gempa",
+                "Persiapan yang bisa dilakukan sebelum gempa",
+                "Kegiatan sebelum gempa bumi"
+            ],
+            "responses": [
+                "Manusia masih belum mampu memprediksi gempa secara tepat, sehingga mempersiapkan diri untuk gempa bumi adalah langkah penting untuk melindungi diri dan orang lain. Sebelum terjadi gempa, Anda dapat mempelajari lingkungan sekitar Anda, seperti lokasi zona aman, pintu keluar, dan potensi bahaya. Selanjutnya, buatlah rencana tanggap darurat dengan teman atau keluarga jika gempa terjadi. Persiapkan kebutuhan darurat seperti dokumen penting, kotak P3K, uang, alat pencahayaan, makanan, dan minuman. Selain itu, mengikuti pelatihan tanggap bencana juga merupakan upaya penting yang bisa dilakukan."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "rencana_tanggap",
+            "patterns": [
+                "Apa yang dimaksud dengan rencana tanggap gempa bumi?",
+                "Bagaimana definisi rencana tanggap gempa bumi?",
+                "Apakah yang dimaksud dengan rencana tanggap dalam konteks gempa bumi?",
+                "Rencana tanggap adalah",
+                "Pengertian rencana tanggap",
+                "Apa langkah-langkah yang termasuk dalam rencana tanggap gempa bumi?",
+                "Rencana tanggap darurat",
+                "Apa yang dimaksud dengan rencana tanggap"
+            ],
+            "responses": [
+                "Rencana Tanggap Darurat (ERP) merupakan suatu kegiatan yang dilakukan oleh seluruh masyarakat lingkungan kerja yang bertujuan untuk mengantisipasi datangnya keadaan darurat sehingga semua orang pada saat itu mengetahui hal-hal apa saja yang harus dilakukan untuk selamat. Rencana tanggap gempa bumi meliputi beberapa langkah yang harus dilakukan sebelum, saat, dan setelah terjadi gempa bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "siap_dokumen",
+            "patterns": [
+                "Bagaimana cara persiapan dokumen saat terjadi gempa?",
+                "Apa langkah-langkah yang harus diambil untuk melindungi dokumen saat terjadi gempa?",
+                "Bagaimana cara mempersiapkan dokumen penting saat terjadi gempa bumi?",
+                "Apakah ada hal yang harus dilakukan terkait dokumen saat terjadi gempa?",
+                "Dokumen apa saja yang disiapkan",
+                "Dokumen yang harus dipersiapkan",
+                "Apa saja dokumen yang persiapkan",
+                "Jenis dokumen yang disiapkan"
+            ],
+            "responses": [
+                "Pastikan untuk melindungi berkas dan dokumen penting saat terjadi gempa dengan menyimpan salinan digital yang aman dan menyediakan kotak atau tas berkas yang tahan air dan tahan gempa. Selain itu, pastikan berkas dan dokumen penting disimpan dalam tempat yang mudah dijangkau dan mudah dibawa saat terjadi gempa. Beberapa contoh berkas dan dokumen yang sebaiknya dipersiapkan meliputi: Identifikasi Pribadi: KTP, paspor, kartu keluarga, SIM, dan kartu identitas lainnya. Dokumen Keuangan: Rekening bank, catatan kredit, polis asuransi, informasi hipotek atau sewa rumah, dan dokumen investasi. Dokumen Properti: Sertifikat kepemilikan rumah atau tanah, dokumen sewa atau kontrak, dan inventaris properti. Dokumen Medis: Kartu jaminan kesehatan, catatan medis, resep obat, dan informasi kontak dokter atau rumah sakit. Dokumen Penting Lainnya: Wasiat, surat-surat penting, kontrak-kontrak, dokumen pendidikan, dan dokumen hukum. Informasi Kontak Darurat: Daftar kontak penting seperti anggota keluarga, teman, dokter, dan petugas darurat. Dokumen Pendukung: Foto-foto keluarga, dokumen keluarga seperti akta kelahiran atau nikah, dan catatan pribadi atau buku harian."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitigasi_dalam_gedung",
+            "patterns": [
+                "Bagaimana saya harus bertindak di dalam gedung saat terjadi gempa?",
+                "Apakah ada langkah-langkah yang harus diikuti di dalam gedung saat terjadi gempa?",
+                "Apa yang harus dilakukan saat gempa terjadi di dalam gedung?",
+                "Terjadi gempa saat saya dalam gedung",
+                "Bagaimana cara mempersiapkan diri di dalam gedung saat terjadi gempa?",
+                "Langkah-langkah apa yang harus diambil untuk keselamatan di dalam gedung saat gempa bumi?",
+                "Mitigasi gempa dalam gedung",
+                "langkah langkah mitigasi dalam gedung",
+                "Cara mitigasi resiko jika terjadi gempa didalam gedung"
+            ],
+            "responses": [
+                "Tetaplah tenang dan jangan panik. Cari perlindungan di bawah perabot berat dan kokoh, seperti meja, dan pegang erat-erat selama guncangan berlangsung. Jika tidak memungkinkan, berbaringlah di lantai dekat dinding bagian dalam yang menahan beban, jauh dari jendela. Lindungi kepala dan wajah dengan tangan. Jangan keluar gedung selama gempa berlangsung, kecuali jika Anda berada di lantai dasar dan dekat pintu keluar yang mengarah langsung ke luar. Hindari menggunakan tangga dan lift."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitigasi_dalam_rumah",
+            "patterns": [
+                "Bagaimana saya harus bertindak di dalam rumah saat terjadi gempa?",
+                "Apakah ada langkah-langkah yang harus diikuti di dalam rumah saat terjadi gempa?",
+                "Apa yang harus dilakukan saat gempa terjadi di dalam rumah?",
+                "Terjadi gempa saat saya dalam rumah",
+                "Bagaimana cara mempersiapkan diri di dalam rumah saat terjadi gempa?",
+                "Langkah-langkah apa yang harus diambil untuk keselamatan di dalam rumah saat gempa bumi?",
+                "Mitigasi gempa dalam rumah",
+                "langkah langkah mitigasi dalam rumah",
+                "Cara mitigasi resiko jika terjadi gempa didalam rumah"
+            ],
+            "responses": [
+                "Tetaplah tenang dan jangan panik. Jika memungkinkan, segera keluar dari rumah dan menuju ke area terbuka. Lakukan metode DROP, COVER, AND HOLD ON: turunkan posisi tubuh agar lebih rendah, cari perlindungan untuk kepala dan leher Anda, dan tetaplah di area tersebut hingga gempa berakhir. Jika Anda tidak dapat keluar dari rumah, hindari jendela, benda gantung, rak buku, lemari, dan barang berat lainnya yang berpotensi jatuh. Jika memungkinkan, gunakan tas atau bantal untuk melindungi wajah Anda dari puing-puing yang jatuh. Jika Anda merasakan getaran, segera matikan gas dan listrik. Cari tempat berlindung, seperti di bawah meja yang kokoh, untuk mengurangi risiko tertimpa."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitigasi_dalam_lift",
+            "patterns": [
+                "Bagaimana saya harus bertindak di dalam lift saat terjadi gempa?",
+                "Apakah ada langkah-langkah yang harus diikuti jika saya dalam lift saat terjadi gempa?",
+                "Apa yang harus dilakukan saat gempa terjadi di dalam lift?",
+                "Terjadi gempa saat saya dalam lift",
+                "Bagaimana cara mempersiapkan diri di dalam lift saat terjadi gempa?",
+                "Langkah-langkah apa yang harus diambil untuk keselamatan di dalam lift saat gempa bumi?",
+                "Mitigasi gempa dalam lift",
+                "langkah langkah mitigasi gempa dalam lift",
+                "Cara mitigasi resiko jika terjadi gempa didalam lift"
+            ],
+            "responses": [
+                "Tetaplah tenang dan jangan panik jika Anda terjebak dalam lift selama gempa. Tekan tombol darurat untuk memberi tahu operator lift. Hindari membuka pintu lift dengan paksa karena bisa berbahaya. Jika mungkin, gunakan barang-barang di sekitar untuk melindungi kepala atau tubuh Anda. Gunakan ponsel atau interkom di dalam lift untuk meminta bantuan dari luar. Beri tahu petugas atau operator lift bahwa Anda terjebak selama gempa. Ingat, petugas darurat akan segera bekerja untuk mengevakuasi Anda setelah gempa berakhir. Tetaplah tenang, ikuti instruksi yang diberikan, dan berharaplah untuk keselamatan Anda."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitigasi_luar_ruangan",
+            "patterns": [
+                "Apa yang harus dilakukan di luar ruangan saat terjadi gempa?",
+                "Bagaimana langkah-langkah mitigasi di luar ruangan saat terjadi gempa?",
+                "Apakah ada petunjuk khusus untuk bertindak di luar ruangan saat gempa bumi?",
+                "Terjadi gempa saat saya diluar ruangan",
+                "Bagaimana cara mempersiapkan diri untuk keselamatan di luar ruangan saat terjadi gempa?",
+                "Mitigasi gempa luar ruangan",
+                "langkah langkah mitigasi luar ruangan",
+                "Cara mitigasi resiko jika terjadi gempa luar ruangan",
+                "mitigasi gempa jika saya diliuar ruangan"
+            ],
+            "responses": [
+                "Segera mencari tempat terbuka, menjauh dari struktur bangunan, penerangan jalan, dan jalur utilitas, serta tetap berada di sana sampai gempa berhenti. Jika berada dalam kendaraan, segera mengarahkan kendaraan ke tepi jalan, menjauh dari bangunan, vegetasi, dan infrastruktur jalan layang, serta tetap berada di dalam kendaraan selama kejadian gempa. Hindari melintasi jembatan, simpul-simpul jalan, atau bagian bawah infrastruktur jalan layang. Setelah getaran gempa mereda, melanjutkan perjalanan dengan hati-hati atau meninggalkan kendaraan di tempat parkir yang aman. Jika berada di lereng curam, segera menjauh untuk mengurangi risiko dari kemungkinan tanah longsor. Apabila merasakan getaran di garis pantai datar, segera berlari ke dataran tertinggi karena terdapat potensi terjadinya tsunami. Penting untuk tidak meninggalkan tempat perlindungan hingga diberikan informasi resmi yang menyatakan bahwa status tsunami telah aman."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitigasi_tempat_ramai",
+            "patterns": [
+                "Apa yang harus dilakukan jika terjadi gempa di tempat yang ramai?",
+                "Bagaimana tindakan yang harus diambil saat terjadi gempa di tempat dengan banyak orang?",
+                "Bagaimana cara aman berperilaku saat terjadi gempa di tempat umum?",
+                "Apakah ada langkah-langkah khusus yang harus diambil saat terjadi gempa di gedung atau tempat ramai?",
+                "Bagaimana cara menghindari bahaya saat terjadi gempa di pusat perbelanjaan atau tempat umum lainnya?",
+                "Apakah ada prosedur khusus untuk evakuasi saat terjadi gempa di tempat yang ramai?",
+                "Mitigasi gempa tempat ramai",
+                "langkah langkah mitigasi tempat ramai",
+                "Cara mitigasi resiko jika terjadi gempa ditempat ramai"
+            ],
+            "responses": [
+                "Hindari mengalami kepanikan dan berusaha untuk tidak terburu-buru menuju pintu keluar, mengingat kemungkinan bahwa orang lain juga akan berpikiran serupa, yang berpotensi menciptakan kekacauan dan berebutan di sekitar pintu keluar. Perlu untuk menjauhi rak pajangan yang berisi barang-barang yang dapat jatuh dan menimbulkan bahaya. Bila memungkinkan dan tersedia, disarankan untuk mencari tempat perlindungan yang aman dan mengambil sesuatu sebagai pelindung untuk kepala dan wajah guna mengantisipasi kemungkinan puing-puing dan pecahan kaca yang dapat jatuh selama gempa. Tindakan ini dapat secara signifikan mengurangi risiko cedera selama kejadian gempa."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "tempat_paling_aman",
+            "patterns": [
+                "Di mana tempat yang paling aman saat terjadi gempa?",
+                "Bagaimana cara menemukan tempat yang aman saat gempa terjadi?",
+                "Apakah ada lokasi yang lebih aman untuk berlindung saat terjadi gempa?",
+                "Di mana tempat paling aman yang saya datangi saat terjadi gempa untuk mencari perlindungan?",
+                "Area paling aman saat gempa",
+                "Tempat aman saat terjadi gempa"
+            ],
+            "responses": [
+                "Pergilah ke area terbuka yang jauh dari pepohonan, tiang telepon, dan bangunan. Setelah berada di tempat terbuka, posisikan tubuh Anda lebih rendah dan tetap di sana sampai guncangan berhenti."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "setelah_gempa",
+            "patterns": [
+                "Apa yang harus dilakukan setelah terjadi gempa bumi?",
+                "Bagaimana langkah-langkah yang harus diambil setelah gempa bumi?",
+                "Apakah ada prosedur khusus yang harus diikuti setelah terjadi gempa?",
+                "Bagaimana cara bertindak setelah gempa bumi terjadi?",
+                "Apa yang harus dilakukan setelah gempa",
+                "Tindakan setelah gempa",
+                "Apa yang dilakukan setelah gempa terjadi"
+            ],
+            "responses": [
+                "Setelah terjadi gempa bumi, langkah-langkah penting untuk memastikan keselamatan diri dan orang lain adalah pertama, tetap tenang dan hindari panik, karena panik hanya akan memperburuk situasi. Kedua, periksa kondisi diri sendiri dan orang lain untuk cedera dan berikan pertolongan pertama seadanya jika diperlukan. Ketiga, evaluasi keadaan sekitar untuk memastikan bahwa bangunan tempat Anda berada aman untuk tinggal; jika terjadi kerusakan parah, segera evakuasi ke zona yang aman. Keempat, patuhi instruksi dari pihak berwenang, seperti petugas pemadam kebakaran, polisi, dan tim SAR. Kelima, jangan menyebarkan berita palsu, tetapi hanya bagikan informasi valid dari sumber terpercaya. Dan keenam, berikan bantuan kepada mereka yang membutuhkan, seperti memberikan pertolongan kepada yang terluka atau memerlukan pertolongan setelah gempa bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "musim_gempa",
+            "patterns": [
+                "Apakah terjadinya gempa berkaitan dengan cuaca atau musim?",
+                "Apakah terjadinya gempa berkaitan dengan cuaca?",
+                "Apakah ada hubungan antara musim dan terjadinya gempa?",
+                "Apakah cuaca atau musim mempengaruhi frekuensi terjadinya gempa?",
+                "Apakah lebih banyak gempa terjadi saat musim tertentu?",
+                "Bagaimana hubungan antara kejadian gempa dan kondisi cuaca?",
+                "Apakah ada korelasi antara perubahan cuaca dan terjadinya gempa bumi?"
+            ],
+            "responses": [
+                "Banyak orang meyakini bahwa terdapat hubungan antara gempa bumi dan kondisi cuaca; bahwasanya lebih banyak gempa bumi terjadi ketika cuaca lembab. Namun, faktanya, gempa bumi terjadi di kedalaman bumi yang jauh dan dapat terjadi tanpa memperhatikan kondisi cuaca dan musim."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "lembaga",
+            "patterns": [
+                "Siapakah lembaga yang bertanggung jawab dalam penanganan gempa?",
+                "Apakah ada lembaga yang terlibat dalam penanggulangan gempa bumi?",
+                "Apa peran lembaga-lembaga dalam mengatasi dampak gempa bumi?",
+                "Lembaga mana yang berperan dalam menangani situasi saat terjadi gempa?",
+                "Siapakah yang menjadi koordinator penanganan gempa bumi di Indonesia?",
+                "Apa saja lembaga pemerintah yang terlibat dalam penanggulangan bencana alam, termasuk gempa bumi?",
+                "Lembaga apa saja yang bertanggung saat terjadi gempa",
+                "Lembaga yang berperan pada saat terjadi gempa",
+                "Siapa saja lembaga penanganan gempa"
+            ],
+            "responses": [
+                "Ketika terjadi gempa, ada beberapa lembaga yang bertanggung jawab untuk menangani situasi dan membantu masyarakat terdampak. Beberapa di antaranya termasuk Badan Nasional Penanggulangan Bencana (BNPB), Badan Penanggulangan Bencana Daerah (BNPD), Pemerintah Daerah, Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), Badan Nasional Pencarian dan Pertolongan (BASARNAS), Palang Merah Indonesia (PMI)"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "purnama_gempa",
+            "patterns": [
+                "Apakah bulan purnama berpengaruh pada kekuatan gempa?",
+                "Apakah ada korelasi antara bulan purnama dan terjadinya gempa?",
+                "Bagaimana hubungan antara fase bulan dan kekuatan gempa?",
+                "Bisakah bulan purnama mempengaruhi frekuensi gempa bumi?",
+                "Hubungan bulan purnama dengan gempa",
+                "Apakah ada bukti ilmiah yang mendukung klaim bahwa bulan purnama memicu gempa?"
+            ],
+            "responses": [
+                "Beberapa penelitian telah menunjukkan bahwa bulan purnama dapat memiliki pengaruh pada kekuatan gempa bumi, namun dampaknya relatif kecil. Beberapa peneliti, seperti Satoshi Ide, menemukan bahwa sembilan dari 12 gempa bumi besar dalam sejarah dunia terjadi di sekitar periode bulan purnama dan bulan baru. Fenomena ini dikaitkan dengan gravitasi yang mempengaruhi air laut, yang dapat menyebabkan pasang laut dan memicu gempa bumi. Namun, tidak semua penelitian menemukan hubungan yang signifikan antara bulan purnama dan kekuatan gempa. Seorang peneliti lain, Hough, menyatakan bahwa tidak ada bukti yang mendukung klaim tersebut dalam katalog gempa bumi, dan beberapa penelitian lain menemukan bahwa pengaruh bulan purnama terhadap gempa bumi relatif kecil."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitos_telan",
+            "patterns": [
+                "Apakah benar bahwa orang bisa ditelan oleh tanah saat gempa?",
+                "Apakah ada kemungkinan kita akan terperangkap di dalam tanah saat gempa?",
+                "Apakah benar bahwa tanah bisa terbelah dan orang jatuh ke dalamnya saat gempa?",
+                "Apakah kita bisa terperangkap di dalam tanah karena gempa?",
+                "Bisakah kita ditelan gempa",
+                "Tertelan gempa",
+                "Ditelan oleh gempa"
+            ],
+            "responses": [
+                "Dalam film, sering kali diperlihatkan bahwa getaran gempa bumi menyebabkan tanah terbelah dan orang-orang jatuh ke dalamnya. Namun, dalam kenyataannya, gempa bumi terjadi karena dilepaskannya secara tiba-tiba tekanan yang terakumulasi di dalam kerak bumi. Dilepaskannya tekanan ini menghasilkan pergerakan relatif antara lapisan-lapisan kerak yang saling bergesekan, menciptakan gelombang getaran yang dirasakan di permukaan bumi. Selain itu, gempa bumi juga dapat menyebabkan deformasi tanah dan terbentuknya retakan, yang berpotensi mengancam keselamatan manusia dan kendaraan."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitos_kecil",
+            "patterns": [
+                "Apakah gempa kecil dapat mencegah terjadinya gempa besar?",
+                "Apakah gempa kecil bisa mengurangi kemungkinan terjadinya gempa besar?",
+                "Apakah gempa kecil memiliki pengaruh terhadap kemungkinan terjadinya gempa besar?",
+                "Apakah gempa kecil akan meminimalkan gempa besar",
+                "Gempa kecil meringankan gempa besar"
+            ],
+            "responses": [
+                "Sebenarnya, gempa bumi kecil tidak memiliki kemampuan untuk mencegah terjadinya gempa besar. Setiap peningkatan satu tingkat magnitudo sebanding dengan sekitar 30 kali peningkatan energi yang dilepaskan. Namun, energi yang dilepaskan oleh gempa kecil tersebut tidaklah cukup untuk menghentikan atau mencegah terjadinya gempa yang lebih besar."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitos_kerusakan",
+            "patterns": [
+                "Apakah makin besar magnitudo gempa maka makin parah dampaknya?",
+                "Apakah hubungan antara magnitudo gempa dan intensitas kerusakan?",
+                "Apakah gempa dengan magnitudo yang lebih besar selalu menyebabkan kerusakan yang lebih besar?",
+                "Benarkah gempa dengan magnitudo besar akan menyebabkan banyak kerusakan",
+                "Apakah gempa dengan magnitudo besar berarti kerusakan yang lebih parah"
+            ],
+            "responses": [
+                "Tidak, makin besar magnitudo gempa tidak secara langsung berarti makin menyebabkan intensitas lebih tinggi. Magnitudo gempa menunjukkan kekuatan energi yang dihasilkan oleh gempa, sedangkan intensitas gempa menunjukkan dampak yang dirasakan di permukaan bumi. Keduanya dapat berbeda karena faktor lain seperti jarak antara gempa dengan epicenter, kondisi geologi lokal, dan jenis gempa bumi yang terjadi. Sebagai contoh gempa 6 magnitudo di gurun akan menghasilkan kerusakan lebih sedikit daripada gempa dengan magnitudo 4 di pusat kota."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mitos_pintu",
+            "patterns": [
+                "Apakah aman berlindung di kerangka pintu saat gempa?",
+                "Apakah kerangka pintu tempat yang aman saat terjadi gempa?",
+                "Apakah kerangka pintu merupakan tempat yang direkomendasikan untuk berlindung saat gempa?",
+                "Apakah berlindung di kerangka pintu masih aman",
+                "Amankah berlindung di kerangka pintu saat gempa"
+            ],
+            "responses": [
+                "Dalam rumah modern, kerangka pintu tidak lebih kuat dibandingkan dengan bagian rumah lainnya, dan pintu yang ada di dalamnya dapat berayun dan menyebabkan cedera. Untuk keamanan yang lebih baik, disarankan untuk melatih diri dengan tindakan 'DROP, COVER, AND HOLD ON' di bawah perabot yang kokoh."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "tipe_gempa",
+            "patterns": [
+                "Apa saja tipe gempa",
+                "Sebutkan tipe gempa",
+                "Apakah ada tipe gempa",
+                "Tipe gempa",
+                "Tipe gempa apa saja",
+                "Tipe gempa bumi apa saja?",
+                "Apa saja tipe gempa bumi?",
+                "Gempa bumi memiliki tipe apa saja?",
+                "tipe gempa bumi",
+                "Jelaskan tipe gempa",
+                "Berapa banyak tipe gempa",
+                "Berikan saya tipe gempa",
+                "Tipe gempa itu apa aja"
+            ],
+            "responses": [
+                "Gempa bumi dapat dibedakan menjadi tiga tipe yaitu Gempa pendahulu (foreshock), Gempa Utama (mainshock), dan Gempa susulan (aftershock). Masing-masing memiliki peran yang berbeda dalam proses kejadian gempa bumi"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "foreshock",
+            "patterns": [
+                "Apa itu gempa pendahulu",
+                "Pengertian gempa pendahulu",
+                "Jelaskan gempa pendahulu",
+                "Gempa pendahulu adalah",
+                "Gempa pendahulu apa",
+                "Apa yang dimaksud dengan gempa pendahulu",
+                "Berikan saya definisi gempa pendahulu",
+                "Apa sih yang dimaksud dengan gempa pendahulu",
+                "Bagaimana gempa pendahulu terjadi",
+                "Gempa pendahulu"
+            ],
+            "responses": [
+                "Gempa pendahulu (foreshock) adalah gempa yang terjadi sebelum peristiwa utama terjadi. Energi yang menimbulkan gempa pendahulu lebih kecil dari gempa utama. Foreshock dapat menjadi indikator bahwa gempa utama akan terjadi, namun tidak semua gempa foreshock berarti gempa utama akan terjadi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "mainshock",
+            "patterns": [
+                "Apa itu gempa utama",
+                "Pengertian gempa utama",
+                "Jelaskan gempa utama",
+                "Gempa utama adalah",
+                "Gempa utama apa",
+                "Apa yang dimaksud dengan gempa utama",
+                "Berikan saya definisi gempa utama",
+                "Apa sih yang dimaksud dengan gempa utama",
+                "Bagaimana gempa utama terjadi",
+                "Gempa utama"
+            ],
+            "responses": [
+                "Gempa utama (mainshock) adalah gempa yang memiliki energi terbesar dalam rangkaian gempa bumi dan terjadi karena pergeseran utama lempeng bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "aftershock",
+            "patterns": [
+                "Pengertian gempa susulan",
+                "Jelaskan gempa susulan",
+                "Gempa susulan adalah",
+                "Gempa susulan apa",
+                "Apa yang dimaksud dengan gempa susulan",
+                "Berikan saya definisi gempa susulan",
+                "Apa sih yang dimaksud dengan gempa susulan",
+                "Bagaimana gempa susulan terjadi",
+                "Gempa susulan"
+            ],
+            "responses": [
+                "Gempa susulan (aftershock) adalah gempa yang terjadi setelah gempa utama. Aftershock dapat memiliki energi yang lebih kecil daripada gempa utama, namun dapat masih menyebabkan kerusakan pada bangunan yang rusak atau runtuh."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "intensitas",
+            "patterns": [
+                "Apa itu intensitas gempa bumi?",
+                "Bisakah Anda menjelaskan tentang intensitas gempa?",
+                "Mohon penjelasan tentang intensitas gempa bumi.",
+                "Bagaimana definisi intensitas dalam konteks gempa bumi?",
+                "Apa yang dimaksud dengan intensitas gempa bumi?",
+                "Intensitas adalah",
+                "Pengertian dari intensitas apa",
+                "Apa yang dimaksud dengan intensitas",
+                "Jelaskan intensitas"
+            ],
+            "responses": [
+                "Intensitas gempa bumi adalah ukuran kualitatif kekuatan gempa di suatu tempat yang ditentukan berdasarkan kerusakan dan hasil pengamatan efek gempa bumi di lokasi tersebut, yang dihitung berdasarkan pengamatan subjektif. Intensitas gempa bumi menunjukkan dampak yang dirasakan di permukaan bumi dan dapat berbeda dengan magnitudo gempa, yang menunjukkan kekuatan energi yang dihasilkan oleh gempa. Skala yang digunakan untuk mengukur intensitas gempa adalah Skala MMI (Modified Mercalli Intensity) yang dicetuskan oleh Giuseppe Mercalli pada tahun 1902. Namun, Indonesia memiliki skala intensitasnya sendiri yaitu Skala Intensitas Gempa Bumi (SIG) yang digunakan oleh BMKG."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "skala_mmi",
+            "patterns": [
+                "Apa itu skala Intensitas Mercalli (MMI)?",
+                "Bisakah anda menjelaskan tentang MMI?",
+                "Mohon penjelasan tentang Skala MMI.",
+                "Apa yang dimaksud skala MMI",
+                "Skala Intensitas Mercalli adalah",
+                "Pengertian Skala Intensitas Mercalli (MMI)",
+                "Jelaska apa itu skala mmi",
+                "Skala MMI adalah"
+            ],
+            "responses": [
+                "Skala Mercalli adalah satuan untuk mengukur intensitas gempa bumi yang diciptakan oleh vulkanolog Italia Giuseppe Mercalli pada tahun 1902. Skala ini terbagi menjadi 12 tingkatan berdasarkan informasi dari orang-orang yang selamat dari gempa dan tingkat kerusakan yang diamati. Karena didasarkan pada pengamatan subjektif, Skala Mercalli dianggap kurang tepat dibandingkan dengan perhitungan magnitudo gempa lainnya. Saat ini, Skala Richter lebih umum digunakan untuk mengukur kekuatan gempa bumi. Namun, Skala Mercalli yang dimodifikasi pada tahun 1931 oleh ahli seismologi Harry Wood dan Frank Neumann masih sering digunakan, terutama di tempat yang tidak memiliki peralatan seismometer untuk mengukur kekuatan gempa bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "skala_sig",
+            "patterns": [
+                "Apa itu Skala Intensitas Gempabumi (SIG)?",
+                "Bisakah Anda menjelaskan tentang SIG?",
+                "Mohon penjelasan tentang Skala SIG.",
+                "Apa yang dimaksud skala SIG",
+                "Jelaskan skala sig",
+                "Defini skala sig",
+                "Skala Intensitas Gempabumi (SIG) adalah",
+                "Skala intensitas Gempabumi atau SIG adalah"
+            ],
+            "responses": [
+                "SIG adalah Skala Intensitas Gempabumi Yang digunakan oleh negara Indonesia. Skala ini menyatakan dampak yang ditimbulkan akibat terjadinya gempabumi. Skala Intensitas Gempabumi (SIG-BMKG) digagas dan disusun dengan mengakomodir keterangan dampak gempabumi berdasarkan tipikal budaya atau bangunan di Indonesia. Skala ini disusun lebih sederhana dengan hanya memiliki lima tingkatan yaitu I-V."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "tingkatan_skala_sig",
+            "patterns": [
+                "Bagaimana tingkat skala SIG BMKG dijelaskan?",
+                "Apa yang dimaksud dengan tingkatan skala SIG BMKG?",
+                "Bisakah Anda menjelaskan tingkatan skala SIG BMKG?",
+                "Tingkatan skala SIG BMKG dijelaskan bagaimana?",
+                "Sebutkan tingkatan skala SIG",
+                "Tingkatan skala sig",
+                "Level skala sig",
+                "Sebutkan tingkaran skala sig",
+                "Tingkatan skala sig apa aja",
+                "Apa saja tningkatan skala sig"
+            ],
+            "responses": [
+                "Skala SIG BMKG yang digunakan adalah sebagai berikut: Skala I dengan warna Putih, deksripsi TIDAK DIRASAKAN (Not Felt). Skala II dengan warna Hijau, deksripsi DIRASAKAN (Felt). Skala III dengan warna Kuning, deksripsi KERUSAKAN RINGAN (Slight Damage). Skala IV dengan warna Jingga, deksripsi KERUSAKAN SEDANG (Moderate Damage). Skala V dengan warna Merah, deksripsi KERUSAKAN BERAT (Heavy Damage)."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "tingkatan_skala_mmi",
+            "patterns": [
+                "Bagaimana tingkat skala mmi dijelaskan?",
+                "Apa yang dimaksud dengan tingkatan skala mmi ?",
+                "Bisakah Anda menjelaskan tingkatan skala mmi?",
+                "Tingkatan skala mmi dijelaskan bagaimana?",
+                "Sebutkan tingkatan skala mmi",
+                "Tingkatan skala mmi",
+                "Level skala mmi",
+                "Sebutkan tingkaran skala mmi",
+                "Tingkatan skala mmi apa aja",
+                "Apa saja tingkatan skala mmi"
+            ],
+            "responses": [
+                "Skala Modified Mercalli Intensity (MMI) terdiri dari 12 tingkatan yang memberikan gambaran tentang efek yang dirasakan dan tingkat kerusakan yang terjadi selama gempa bumi. Rentang skala ini dimulai dari level I, di mana gempa tidak dirasakan kecuali oleh sedikit orang dalam keadaan yang sangat tenang, hingga level XII di mana terjadi perubahan bentuk muka bumi dengan kehancuran total. Pada level II dan III, gempa dirasakan sebagai getaran ringan dengan kerusakan yang tidak signifikan, seperti benda-benda ringan bergoyang atau gelas bergetar. Namun, pada level IV dan V, gempa dirasakan oleh hampir semua orang di dalam rumah dengan kerusakan yang lebih nyata, seperti jendela pecah dan kerusakan pada bangunan ringan. Pada level VI dan VII, getaran gempa membuat sulit untuk tetap berdiri tegak dengan kerusakan yang lebih serius pada bangunan dan dinding retak. Pada level VIII hingga XII, kerusakan semakin parah, dengan bangunan runtuh, tanah retak, hingga kehancuran total pada level XII. Skala ini membantu dalam penilaian dan pemahaman terhadap dampak gempa bumi dan dapat digunakan dalam upaya mitigasi risiko dan pemulihan pasca-bencana."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "perbedaan_intensitas_magnitudo",
+            "patterns": [
+                "Apa saja perbedaan skala intensitas dan maginitudo",
+                "Perbedaan skala intensitas dan magnitudo",
+                "Intensitas dan magnitudo bedanya apa aja",
+                "Yang menjadi pembeda antara intesitas dan magnitudo",
+                "Apa saja perbedaaan skala intensitas dan magnitudo",
+                "Sebutkan perbedaan skala intensitas dan magnitudo",
+                "Skala magnitudo dan intensitas bedannya apa",
+                "Apa saja perbedaan skala intensitas dan magnitudo",
+                "Beda skala intensitas dan magnitudo",
+                "Jelaskan perbedaan skala intensitas dan magnitudo",
+                "skala intensitas dan magnitudo",
+                "Beda intensitas dan magnitudo",
+                "Perbedaan intensitas dan magnitudo"
+            ],
+            "responses": [
+                "Perbedaan utama antara intensitas dan magnitudo adalah sebagai berikut: Intensitas bersifat kualitatif, sedangkan magnitudo bersifat kuantitatif. Intensitas tergantung pada lokasi pengukuran, sedangkan magnitudo tidak. Intensitas dapat bervariasi di daerah yang berbeda yang terkena gempa bumi, sedangkan magnitudo selalu sama untuk gempa bumi yang sama."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "lama_gempa",
+            "patterns": [
+                "Berapa lama gempa bisa terjadi",
+                "Waktu yang dipakai untuk gempa",
+                "Lamanya getaran saat gempa",
+                "Waktu yang diperlukan untuk gempa",
+                "Waktu gempa terjadi",
+                "Lama gempa beraktivitas",
+                "Gempa lama",
+                "Berapa detik gempa terjadi",
+                "Berapa menit gempa terjadi",
+                "Berapa jam gempa terjadi"
+            ],
+            "responses": [
+                "Secara umum, gempa bumi di Indonesia biasanya berlangsung selama beberapa detik, dan tidak sampai satu menit. Namun, ada beberapa pengecualian. Contohnya, Gempa bumi Aceh 2004, yang berkekuatan 9.1–9.3 M , berlangsung selama lebih dari 10 menit. Gempa bumi ini adalah salah satu gempa bumi terlama yang pernah tercatat."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "pengalaman_gempa",
+            "patterns": [
+                "Bagaimana perasaanmu saat gempa terjadi?",
+                "Apa yang kamu rasakan ketika gempa terjadi?",
+                "Bagaimana sensasimu saat terjadi gempa?",
+                "Saat gempa terjadi, apa yang kamu rasakan?",
+                "Pengalaman saat gempa"
+            ],
+            "responses": [
+                "Apa yang anda rasakan pada saat gempa tergantung pada faktor-faktor seperti lokasi Anda, lokasi gempa, dan seberapa besar gempanya. Gempa bumi besar di dekat Anda akan terasa seperti guncangan besar yang tiba-tiba, diikuti oleh guncangan yang lebih kuat dan mungkin berlangsung beberapa detik atau bahkan menit jika gempanya besar. Guncangannya bisa sangat hebat sehingga sulit untuk berdiri, dan rumah Anda mungkin akan berantakan. Di sisi lain, gempa bumi besar di tempat yang jauh akan terasa seperti guncangan lembut yang kemudian diikuti oleh guncangan bergulung yang lebih kuat, mungkin terasa seperti guncangan tajam untuk beberapa saat. Gempa kecil di dekat Anda mungkin hanya terasa seperti guncangan kecil yang diikuti oleh beberapa guncangan kuat dan tajam yang berlalu dengan cepat. Namun, gempa kecil yang terjadi jauh mungkin tidak akan terasa sama sekali, atau jika Anda merasakannya, akan terdiri dari satu atau dua guncangan halus yang lebih mudah dirasakan jika Anda diam dan duduk."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "meletus_gunung",
+            "patterns": [
+                "Apakah gempa bisa menyebabkan gunung meletus?",
+                "Apakah gempa bumi bisa memicu letusan gunung berapi?",
+                "Apakah ada kaitan antara gempa bumi dan letusan gunung?",
+                "Bisakah gempa menyebabkan gunung berapi meletus?",
+                "Gunung meletus akibat gempa",
+                "Gempa mengakibatkan gunung meletus"
+            ],
+            "responses": [
+                "Terkadang, gempa bumi regional yang signifikan, terutama yang memiliki magnitudo lebih besar dari 6, dapat dikaitkan dengan letusan gunung berapi terdekat atau aktivitas vulkanik lainnya. Namun, penting untuk dicatat bahwa gunung berapi hanya dapat meletus jika dua kondisi utama terpenuhi. Pertama, harus ada cukup magma dalam sistem vulkanik untuk memicu letusan. Kedua, harus terjadi peningkatan tekanan yang signifikan dalam wilayah penyimpanan magma. Ketika gempa tektonik besar terjadi di dekat gunung berapi yang memenuhi kedua kondisi tersebut, hal ini dapat menyebabkan pelepasan gas yang terlarut dalam magma. Ini dapat meningkatkan tekanan di dalam gunung berapi dan meningkatkan kemungkinan letusan."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "gempa_terbesar_dunia",
+            "patterns": [
+                "Apa gempa terbesar yang pernah terjadi di dunia?",
+                "Gempa mana yang dianggap sebagai yang terbesar dalam sejarah dunia?",
+                "Gempa dengan kekuatan terbesar di dunia terjadi di mana dan kapan?",
+                "Berapa kekuatan gempa terbesar yang pernah terjadi di dunia?",
+                "Gempa mana yang memiliki dampak paling besar di dunia?",
+                "Gempa terbesar dunia",
+                "Gempa terbesar sepanjang sejarah"
+            ],
+            "responses": [
+                "Gempa dan tsunami Valdivia tahun 1960 atau gempa Besar Chili pada tanggal 22 Mei 1960 merupakan gempa bumi terkuat yang pernah tercatat. Berbagai penelitian menempatkannya pada skala momen magnitudo 9,4–9,6. Kejadiannya terjadi pada sore hari dan berlangsung selama kurang lebih 10 menit."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "gempa_mematikan_dunia",
+            "patterns": [
+                "Apa gempa bumi dengan jumlah korban terbanyak dalam sejarah?",
+                "Gempa bumi mana yang memiliki korban terbanyak?",
+                "Apakah ada gempa bumi yang memiliki jumlah korban tewas paling besar?",
+                "Gempa bumi dengan jumlah korban terbesar terjadi di mana?",
+                "Apakah Anda tahu tentang gempa bumi yang memakan korban paling banyak?",
+                "Gempa mematikan dunia"
+            ],
+            "responses": [
+                "Gempa Bumi Tangshan juga dikenal sebagai Gempa Bumi besar Tangshan dengan magnitudo 7.5, adalah bencana gempa bumi yang terjadi pada tanggal 28 Juli 1976. Bencana ini diyakini sebagai gempa bumi terbesar abad ke-20 dengan korban tewas. Episenter gempa bumi dekat dengan kota Tangshan di Provinsi Hebei, Republik Rakyat Tiongkok, sebuah kota industri dengan sekitar satu juta penduduk. Jumlah kematian awalnya dilaporkan oleh pemerintah Tiongkok adalah 655.000 orang, namun jumlah ini kini telah direvisi menjadi sekitar 240.000 ke 255.000 orang. 164.000 orang lainnya tercatat sebagai terluka parah"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "gempa_terbesar_indonesia",
+            "patterns": [
+                "Apa gempa terbesar yang pernah terjadi di Indonesia?",
+                "Gempa mana yang dianggap sebagai yang terparah dalam sejarah Indonesia?",
+                "Gempa dengan kekuatan terbesar di Indonesia terjadi di mana dan kapan?",
+                "Berapa kekuatan gempa terbesar yang terjadi di Indonesia?",
+                "Gempa mana yang memiliki dampak paling besar di Indonesia?",
+                "Gempa terbesar indonesia"
+            ],
+            "responses": [
+                "Gempa terbesar di Indonesia adalah gempa megathrust berkekuatan 9.1–9.3 M yang terjadi pada tanggal 26 Desember 2004, di lepas pantai barat Sumatera bagian utara. Gempa ini memicu tsunami dahsyat."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "tsunami_terparah_dunia",
+            "patterns": [
+                "Apa tsunami terparah yang pernah terjadi di dunia?",
+                "Tsunami mana yang dianggap sebagai yang terparah dalam sejarah?",
+                "Tsunami mana yang memiliki jumlah korban jiwa tertinggi di dunia?",
+                "Apakah pernah terjadi tsunami yang sangat mematikan dalam sejarah?",
+                "Tsunami terparah dalam sejarah dunia terjadi di mana dan kapan?",
+                "Berapa jumlah korban jiwa dari tsunami terparah dalam sejarah?"
+            ],
+            "responses": [
+                "Tsunami yang paling dahsyat dan paling mematikan terjadi di Samudera Hindia pada Boxing Day tahun 2004. Tsunami ini adalah yang paling mematikan yang pernah terjadi, dengan jumlah korban jiwa yang mencapai angka lebih dari 230.000 jiwa, mempengaruhi orang-orang di 14 negara – termasuk Indonesia yang paling terkena dampaknya, diikuti oleh Sri Lanka, India, dan Thailand."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "cincin_api",
+            "patterns": [
+                "Apa itu cincin api?",
+                "Bagaimana anda mendefinisikan cincin api?",
+                "Apakah yang dimaksud dengan cincin api pasifik?",
+                "Jelaskan tentang cincin api.",
+                "Apa yang dimaksud dengan istilah 'cincin api' dalam konteks geologi?",
+                "Mengapa cincin api dikenal sebagai wilayah yang rentan terhadap gempa bumi dan letusan gunung berapi?",
+                "Bagaimana ciri khas cincin api?"
+            ],
+            "responses": [
+                "Cincin Api atau Cincin Api Pasifik (Pacific Ring of Fire) adalah daerah yang sering mengalami gempa bumi, letusan gunung berapi, dan tsunami yang mengelilingi cekungan Samudera Pasifik. Bayangkan bentuk tapal kuda yang memanjang, itu kira-kira menggambarkan bentuk Cincin Api.  Cincin Api membentang sepanjang sekitar 40.000 kilometer (25.000 mil) dan mencakup wilayah di sekitar Samudera Pasifik."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "saran",
+            "patterns": [
+                "Apa saja istilah yang bisa saya cari di sini?",
+                "Ada daftar istilah yang tersedia?",
+                "Apakah ada istilah yang dijelaskan di sini?",
+                "Bisakah saya mencari definisi beberapa istilah?",
+                "Apakah chatbot ini memiliki daftar istilah yang dapat saya jelajahi?",
+                "Saya binggung mau nanya apa",
+                "Bagaimana saya bisa mencari informasi tentang istilah terkait gempa bumi?",
+                "Bisakah anda memberikan saya saran pertanyaan?",
+                "Apakah anda punya saran pertayaan untuk saya?",
+                "Saya tidak tau mau nanya apa",
+                "Apakah saran pertanyaan yang anda miliki",
+                "Saya tidak tau mau menanyakan apa",
+                "Gak tau pertanyaan saya, saranin dong"
+            ],
+            "responses": [
+                "Jika anda biggung memulai pertanyaan berikut adalah saran istilah yang bisa anda tanyakan pada saya adalah:\n Pengertian,jenis dan tipe gempa\n Pengertian dan jenis lempeng\n Pengertian jenis patahan\n Skala gempa \n Mitigasi \n Hiposentrum dan Episentrum \n Peran lembaga Indonesia untuk mengantisipasi gempa \n Itu adalah beberapa pertanyaan awal yang bisa anda tanyakan kepada saya."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "sektor_sosial_gempa",
+            "patterns": [
+                "Bagaimana gempa bumi memengaruhi hubungan sosial?",
+                "Apakah ada dampak sosial dari gempa bumi?",
+                "Bagaimana masyarakat bereaksi terhadap gempa bumi dari segi sosial?",
+                "Bagaimana ketergantungan pada bantuan meningkat setelah terjadinya gempa bumi?",
+                "Hubungan sektor sosial dengan gempa",
+                "Sektor sosial gempa"
+            ],
+            "responses": [
+                "Gempa bumi memiliki dampak signifikan pada sektor sosial masyarakat, mencakup perubahan ekonomi dan kehidupan sosial pasca-bencana. Kerusakan fisik, kehilangan properti, dan infrastruktur menyebabkan gangguan psikososial seperti stres dan ketidakstabilan emosional. Masyarakat menjadi lebih individualistik, hubungan antarindividu berkurang, dan ketergantungan pada bantuan meningkat. Gempa juga memperburuk kondisi sosial-ekonomi dan demografis, meningkatkan kemiskinan dan kelaparan."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "sektor_ekonomi_gempa",
+            "patterns": [
+                "Apa saja dampak gempa ke sektor ekonomi?",
+                "Bagaimana gempa bumi memengaruhi sektor ekonomi?",
+                "Apakah ada kerugian ekonomi yang disebabkan oleh gempa bumi?",
+                "Bagaimana upaya pemulihan ekonomi dilakukan setelah terjadinya gempa bumi?",
+                "Hubungan sektor ekonomi dengan gempa",
+                "Sektor ekonomi gempa"
+            ],
+            "responses": [
+                "Gempa bumi memiliki dampak yang signifikan pada sektor ekonomi dan masyarakat. Kerusakan infrastruktur seperti jalan, jembatan, dan gedung mengganggu aktivitas ekonomi dan membutuhkan biaya besar untuk perbaikan. Gangguan produksi di pabrik, pertanian, dan sektor lainnya mengurangi pasokan barang dan layanan, serta pendapatan perusahaan dan pekerja. Hal ini dapat meningkatkan kemiskinan dan pengangguran, menghambat pertumbuhan ekonomi, dan menciptakan ketidakstabilan sosial. Upaya pemulihan ekonomi setelah gempa melibatkan rekonstruksi infrastruktur, dukungan bagi sektor yang terdampak, dan peningkatan ketahanan terhadap bencana."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "sektor_agrikultur_gempa",
+            "patterns": [
+                "Bagaimana gempa bumi mempengaruhi sektor pertanian?",
+                "Apakah ada dampak gempa bumi pada produksi pertanian?",
+                "Bagaimana kerusakan infrastruktur akibat gempa bumi memengaruhi pertanian?",
+                "Apakah ada gangguan pada rantai pasokan pangan akibat gempa bumi?",
+                "Bagaimana kondisi petani setelah terjadinya gempa bumi?",
+                "Hubungan sektor agrikultur dengan gempa",
+                "Sektor agrikultur gempa",
+                "Apa hubungan sektor agrikultur dengan gempa bumi",
+                "Jelaskan hubungan sektor agrikultur dengan gempa"
+            ],
+            "responses": [
+                "Gempa bumi dapat menyebabkan kerusakan signifikan pada infrastruktur dan sarana pertanian, seperti penggilingan padi, irigasi, dan lain-lain, yang dapat menghambat proses produksi pertanian. Selain itu, gempa bumi juga dapat menyebabkan trauma pada petani, sehingga mereka tidak dapat menggarap lahan mereka, mengganggu rantai pasok dan harga komoditas pangan yang naik. Gempa bumi juga dapat mempengaruhi produktivitas dan kualitas ternak, serta mengganggu pengelolaan sapi potong model integrasi padi-ternak yang sudah berjalan dengan baik"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "sektor_pendidikan_gempa",
+            "patterns": [
+                "Bagaimana peran pendidikan dalam menghadapi gempa bumi?",
+                "Apakah pendidikan memiliki dampak dalam mengurangi risiko gempa bumi?",
+                "Bagaimana pendidikan dapat membantu mengurangi dampak gempa bumi?",
+                "Apakah ada program pendidikan khusus untuk menghadapi gempa bumi?",
+                "Bagaimana sekolah dapat berkontribusi dalam kesiapsiagaan terhadap gempa bumi?",
+                "Hubungan sektor pendidikan dengan gempa",
+                "Sektor pendidikan gempa"
+            ],
+            "responses": [
+                "Pendidikan dapat berperan dalam meningkatkan kesiapsiagaan masyarakat terhadap bencana gempa bumi. Penelitian menunjukkan bahwa pengetahuan tentang gempa bumi memiliki hubungan yang signifikan dengan kesiapsiagaan masyarakat, sehingga pendidikan tentang gempa bumi sangat penting diberikan pada siswa untuk mengurangi dampak bencana. Implementasi Pendidikan Pencegahan dan Pengurangan Risiko Bencana (PRB) di sekolah merupakan langkah penting dalam membangun ketahanan terhadap bencana, termasuk gempa bumi. Integrasi materi PRB ke dalam kurikulum dan kesadaran akan risiko bencana dapat membantu meningkatkan kesiapsiagaan dan ketahanan sekolah serta masyarakat secara keseluruhan"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "pengaruh_mental",
+            "patterns": [
+                "Bagaimana gempa bumi memengaruhi kesehatan mental manusia?",
+                "Apakah ada dampak psikologis dari gempa bumi?",
+                "Bagaimana gempa bumi mempengaruhi kondisi mental korban?",
+                "Apakah ada masalah kesehatan mental yang muncul setelah gempa bumi?",
+                "Pengaruh mental akibat gempa",
+                "Apa aja dampak mental akibat gempa",
+                "Pengaruh mental",
+                "Dampak gempa ke mental korban",
+                "Dampak gempa terhadap kesehatan mental",
+                "Dampak apa saja yang diberikan gempa terhadap kesehatan mental",
+                "Hubungan kesehatan mental dengan gempa",
+                "Kesehatan mental gempa",
+                "Akibat kesehatan mental oleh gempa",
+                "Sebutkan dampak gempa terhadap kesehatan mental",
+                "Apakah gempa menyebabkan trauma"
+            ],
+            "responses": [
+                "Gempa bumi memiliki dampak negatif yang signifikan pada kesehatan mental manusia, khususnya terkait dengan Post-Traumatic Stress Disorder (PTSD) dan gangguan kecemasan pasca-trauma. Penelitian sebelumnya menunjukkan bahwa gempa bumi dan bencana alam lainnya dapat menyebabkan stres, kecemasan, dan depresi pada individu yang terkena dampak. Korban gempa bumi sering mengalami berbagai masalah psikologis, termasuk depresi, sebagai akibat dari kehilangan keluarga atau kerabat, serta kehilangan rumah, yang dapat memicu trauma, ketakutan, dan syok pada para korban selamat. Dampak ini dapat berlangsung dalam jangka waktu yang panjang dan memerlukan perhatian serta dukungan psikologis yang memadai untuk memfasilitasi pemulihan mental korban."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "penanganan_kesehatan_mental",
+            "patterns": [
+                "Bagaimana cara mengatasi masalah kesehatan mental setelah gempa bumi?",
+                "Apakah ada saran untuk mengatasi dampak mental dari gempa bumi?",
+                "Bagaimana cara mendapatkan bantuan untuk kesehatan mental pasca-gempa?",
+                "Apakah ada langkah-langkah yang dapat diambil untuk memulihkan kesehatan mental setelah terjadi gempa bumi?",
+                "Mengatasi mental akibat gempa",
+                "Mengatasi trauma akibat gempa",
+                "Pengobatan mental akibat gempa",
+                "Pengobatan trauma akibat gempa",
+                "Bagaimana cara mengobati mental korban",
+                "Bagaimana cara trauma mental korban",
+                "Cara mengobati kesehatan mental korban gempa",
+                "Cara memulihkan trauma akibat gempa",
+                "Bagaimana cara mengobati trauma korban gempa"
+            ],
+            "responses": [
+                "Sebagai sebuah sistem komputer saya tidak dapat memberikan pengobatan penuh terhadap mental manusia. Tetapi saya bisa memberikan saran apa saja yang bisa anda lakukan yaitu bertemu dengan Psikoterapi yang memiliki pengetahuan profesional untuk menyembuhkanmu ataupun anda bisa mengikuti Dukungan Sosial seperti bergabung dengan kelompok pendukung, berbicara dengan teman atau keluarga dan berpartipasi dalam kegiatan komunitas. Jika Anda atau seseorang yang Anda kenal mengalami kesulitan mental akibat bencana gempa bumi, jangan ragu untuk mencari bantuan. Anda tidak sendirian dan ada banyak orang yang dapat membantu Anda untuk pulih."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "terima_kasih",
+            "patterns": [
+                "makasih ya",
+                "makasih",
+                "makasih jawabanya",
+                "mantap",
+                "tepat",
+                "siap",
+                "matur nuwun",
+                "terima kasih banyak",
+                "Terima kasih",
+                "Thanks",
+                "Thank you",
+                "Itu membantu",
+                "Luar biasa terima kasih",
+                "Terima kasih telah membantu saya",
+                "Ok terima kasih",
+                "terimakasih",
+                "Terimakasih",
+                "thq"
+            ],
+            "responses": [
+                "sama-sama",
+                "sama-sama, saya disini membantu anda",
+                "saya selalu disini membantu anda"
+            ]
+        },
+        {
+            "tag": "kamu",
+            "patterns": [
+                "siapa kamu",
+                "kamu siapa?",
+                "nama mu siapa",
+                "siapa namamu",
+                "apa namamu",
+                "nama kamu",
+                "nama kamu siapa?"
+            ],
+            "responses": [
+                "saya adalah QuakeBot, program chatbot yang dirancang khusus untuk menjadi asisten anda",
+                "saya QuakeBot program chatbot pendamping anda",
+                "panggil saja QuakeBot"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "sapaan",
+            "patterns": [
+                "Halo",
+                "Hai",
+                "Selamat pagi",
+                "Selamat siang",
+                "Selamat sore",
+                "Selamat malam",
+                "Apa kabar?",
+                "Bagaimana hari Anda?",
+                "Tolong bantu saya",
+                "mau tanya",
+                "Hay",
+                "Hy",
+                "Hallo",
+                "Hey",
+                "Hola",
+                "Hello",
+                "p",
+                "mikum",
+                "assamualaikaum",
+                "hi"
+            ],
+            "responses": [
+                "Halo, ada yang bisa saya bantu?",
+                "Hai, ada yang ingin Anda tanyakan?",
+                "Bagaimana saya bisa membantu hari ini?",
+                "Apa yang bisa saya lakukan untuk Anda?",
+                "Ada yang spesifik yang ingin Anda ketahui?",
+                "Apakah Anda membutuhkan bantuan hari ini?",
+                "Saya hanya program komputer, tetapi siap membantu Anda",
+                "Silahkan Jangan ragu untuk bertanya jika ada yang perlu Anda tanyakan.",
+                "Halo! Saya siap membantu Anda dengan informasi tentang gempa bumi.",
+                "Hai! Saya adalah chatbot yang dapat memberikan informasi tentang gempa bumi. Ada yang bisa saya bantu?",
+                "Selamat datang! Jika Anda memiliki pertanyaan tentang gempa bumi atau topik terkait, jangan ragu untuk bertanya kepada saya.",
+                "Tentu, saya siap membantu Anda dengan pertanyaan tentang gempa bumi atau topik terkait.",
+                "Ya, saya dapat memberikan informasi tentang gempa bumi dan topik terkaitnya. Silakan beritahu saya apa yang Anda ingin ketahui.",
+                "Apakah Anda ingin mempelajari lebih lanjut tentang gempa bumi atau memiliki pertanyaan tentang topik terkait?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "notfound",
+            "patterns": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "responses": [
+                "Maaf saya tidak tahu",
+                "Bisakah anda menyusun kembali kalimatnya",
+                "kata diluar kemampuan kami"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "pengungsian",
+            "patterns": [
+                "Bagaimana proses pengungsian saat terjadi gempa bumi?",
+                "Apakah ada langkah-langkah yang harus diikuti dalam pengungsian saat gempa bumi?",
+                "Bagaimana masyarakat dievakuasi saat terjadi gempa bumi?",
+                "Proses evakuasi masyarakat pada saat gempa",
+                "Proses pengungsian gempa bumi"
+            ],
+            "responses": [
+                "Proses pengungsian gempa bumi melibatkan serangkaian langkah yang harus diikuti untuk memastikan keselamatan masyarakat. Langkah-langkah tersebut mencakup pemberitahuan tentang gempa bumi kepada petugas evakuasi, pengumuman melalui berbagai saluran komunikasi, evakuasi segera sesuai dengan petunjuk, pengawasan untuk memastikan jumlah karyawan dan laporan kepada koordinator, pengumpulan di daerah aman yang telah ditentukan, pemberian pertolongan terutama kepada orang yang membutuhkan, pengawasan kesehatan untuk mencegah kepanikan, pengumpulan data untuk koordinator pencarian, penyelamatan, dan evakuasi, pengawasan kebakaran dan pengumpulan informasi serta memberikan pertolongan pertama kepada orang-orang di sekitar. Semua langkah ini bertujuan untuk memastikan keselamatan maksimal selama dan setelah terjadinya gempa bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "sistem_peringatan_dini",
+            "patterns": [
+                "Apa itu peringatan dini gempa bumi?",
+                "Jelaskan apa itu peringatan dini gempa",
+                "Kegunaan dari peringatan dini gempa",
+                "Penjelasan tentang peringatan dini gempa bumi.",
+                "Apa yang dimaksud dengan peringatan dini gempa bumi?",
+                "Peringatan dini gempa bumi adalah",
+                "Apa yang dimaksud dengan peringatan dini gempa bumi",
+                "Jelaskan peringatan dini gempa bumi"
+            ],
+            "responses": [
+                "Peringatan dini gempa adalah sistem yang dirancang untuk memberikan peringatan kepada masyarakat beberapa detik atau menit sebelum gempa bumi terjadi. Sistem ini memungkinkan orang untuk berlindung sebelum gempa bumi tiba, sehingga dapat menyelamatkan jiwa dan mengurangi kerusakan."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "penyelamatan_hewan",
+            "patterns": [
+                "Apakah hewan juga diselamatkan saat gempa?",
+                "Siapa yang menyelamatkan hewan saat gempa?",
+                "Bagaimana proses penyelamatan hewan saat gempa bumi?",
+                "Penyelamat hewan saat bencana gempa"
+            ],
+            "responses": [
+                "Penyelamatan hewan juga menjadi bagian penting dalam respons terhadap gempa bumi. Saat terjadi gempa bumi, banyak hewan, baik peliharaan maupun liar, dapat menjadi korban atau terjebak di bawah reruntuhan bangunan atau tanah longsor. Upaya penyelamatan hewan dilakukan oleh tim-tim penyelamat, relawan, serta petugas dari berbagai organisasi nirlaba yang bekerja sama dengan pemerintah."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "bantuan_pasca_gempa",
+            "patterns": [
+                "Apakah ada jenis bantuan yang tersedia untuk korban gempa?",
+                "Bagaimana pemerintah dan organisasi lain membantu korban gempa untuk pulih?",
+                "Apa saja bentuk bantuan yang disediakan setelah terjadinya gempa?",
+                "Bisakah Anda jelaskan jenis bantuan yang tersedia bagi korban gempa untuk memulihkan diri?",
+                "Apa yang dimaksud dengan bantuan pasca gempa",
+                "Bantuan pasca gempa",
+                "Bantuan apa yang bisa diberikan untuk korban gempa",
+                "Bantuan untuk kerban gempa"
+            ],
+            "responses": [
+                "Bantuan pasca gempa adalah upaya yang dilakukan oleh pemerintah dan organisasi lainnya untuk membantu korban gempa dalam memulihkan diri dan kembali ke kehidupan normal. Berbagai bentuk bantuan termasuk bantuan logistik seperti peralatan masak, tenda, family kit, beras, dan makanan untuk memenuhi kebutuhan dasar. Selain itu, bantuan kebutuhan pokok seperti makanan, minuman, tempat mandi dan cuci, serta sandang menjadi penting bagi korban bencana alam. Bantuan juga mencakup penyediaan peralatan darurat seperti tenda darurat, genset listrik, lampu darurat, dan peralatan medis untuk memastikan korban dapat bertahan hidup. Relokasi sementara bagi korban yang kehilangan tempat tinggal, perbaikan fisik terhadap kerusakan aset pribadi dan fasilitas umum, serta bantuan pendidikan dan pendampingan psikososial bagi anak-anak korban gempa juga disediakan. Bantuan modal atau pekerjaan untuk membantu korban memulai hidup pasca bencana, bantuan transportasi untuk menyalurkan bantuan dan memindahkan korban, serta bantuan dari tim penolong dan medis untuk menyelamatkan dan menjaga kesehatan korban juga menjadi bagian penting dari upaya pemulihan."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "pelatihan",
+            "patterns": [
+                "Mengapa pelatihan gempa bumi penting?",
+                "Apa yang dimaksud pelatihan gempa",
+                "Apa manfaat dari pelatihan gempa bumi?",
+                "Kenapa kita perlu melaksanakan pelatihan gempa bumi?",
+                "Apa saja alasan pentingnya pelatihan gempa bumi?"
+            ],
+            "responses": [
+                "Pelatihan gempa bumi adalah kegiatan yang bertujuan untuk meningkatkan kesiapsiagaan dan pengetahuan masyarakat dalam menghadapi gempa bumi. Pelatihan ini sangat penting karena beberapa alasan berikut: Meningkatkan Kesadaran, Meningkatkan Pengetahuan, Meningkatkan Kemampuan Tanggap, Meningkatkan Kepercayaan Diri, Membangun Komunitas yang Tanggap Bencana. Yang mana kita akan mendapat manfaat seperti Mengurangi jumlah korban jiwa dan luka-luka, Meminimalkan kerusakan harta benda, Mempercepat proses pemulihan setelah gempa bumim, Meningkatkan rasa aman dan nyaman bagi masyarakat"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "simulasi_gempa",
+            "patterns": [
+                "Apa itu simulasi gempa?",
+                "Bagaimana simulasi gempa dilakukan?",
+                "Apa tujuan dari simulasi gempa?",
+                "Apa itu simulasi gempa",
+                "Pengertian simulasi gempa"
+            ],
+            "responses": [
+                "Simulasi gempa bumi adalah suatu kegiatan yang dilakukan untuk mengantisipasi dan menghadapi bencana gempa bumi. Tujuan dari simulasi ini adalah untuk melatih kesiapsiagaan para pegawai, siswa, atau masyarakat tentang bagaimana mengambil sikap dan tindakan ketika menghadapi bencana gempa bumi. Dalam simulasi, berbagai kondisi yang mungkin terjadi pada saat gempa bumi, seperti evakuasi, pemberian perawatan pertama kepada korban, dan lain-lain, diprogramkan untuk mempersiapkan para pegawai dan masyarakat dalam menghadapi situasi-situasi yang tidak terduga. "
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "bangunan_tahan_gempa",
+            "patterns": [
+                "Apa itu bangunan tahan gempa?",
+                "Bagaimana bangunan tahan gempa dirancang?",
+                "Apa yang membuat bangunan tahan gempa berbeda dari bangunan biasa?",
+                "Apa saja ciri-ciri fisik bangunan tahan gempa?",
+                "Mengapa penting untuk memiliki bangunan tahan gempa?"
+            ],
+            "responses": [
+                "Bangunan tahan gempa adalah struktur yang mampu merespons gempa dengan sikap bertahan dari keruntuhan dan fleksibel dalam meredam getaran gempa. Mereka dirancang dengan memperhitungkan analisis yang cermat terhadap kombinasi beban, pemilihan material, dan penempatan massa struktur. Ciri-ciri fisiknya meliputi sistem penahan gaya dinamik yang kuat, sistem penahan gempa yang efektif, dan konfigurasi struktural yang memenuhi standar anti-gempa. Dengan demikian, bangunan tahan gempa tidak hanya mengutamakan kekuatan struktur tetapi juga ketahanan dan kemampuan meredam getaran, sehingga memberikan perlindungan yang lebih baik terhadap kehidupan dan harta benda selama kejadian gempa bumi."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "bnpb",
+            "patterns": [
+                "Apa peran Badan Nasional Penanggulangan Bencana (BNPB)?",
+                "Apa fungsi utama BNPB dalam penanggulangan bencana?",
+                "Bagaimana BNPB berperan dalam menghadapi bencana alam?",
+                "Bisakah Anda menjelaskan tugas dan tanggung jawab BNPB?",
+                "Tugas dan tanggung jawab BNPB",
+                "Tugas dan tanggung jawab Badan Nasional Penanggulangan Bencana",
+                "Apa saja fungsi BNPB?",
+                "Apa saja fungsi Badan Nasional Penanggulangan Bencana?",
+                "Peran BNPB",
+                "Peran Badan Nasional Penanggulangan Bencana",
+                "Apa itu BNPB",
+                "Jelaskan BNPB"
+            ],
+            "responses": [
+                "Badan Nasional Penanggulangan Bencana (BNPB) adalah lembaga yang berfungsi sebagai badan koordinasi nasional untuk menghadapi bencana alam dan kecelakaan. BNPB berfungsi untuk perumusan dan penetapan kebijakan penanggulangan bencana dan penanganan pengungsi dengan bertindak cepat dan tepat serta efektif dan efisien. Selain itu, BNPB juga berfungsi sebagai pengkoordinasian pelaksanaan kegiatan penanggulangan bencana secara terencana, terpadu, dan menyeluruh."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "bpbd",
+            "patterns": [
+                "Apa peran Badan Penanggulangan Bencana Daerah (BPBD)?",
+                "Apa fungsi utama BPBD dalam penanggulangan bencana?",
+                "Bagaimana BPBD berperan dalam menghadapi bencana alam?",
+                "Bisakah Anda menjelaskan tugas dan tanggung jawab BPBD?",
+                "Tugas dan tanggung jawab BPBD",
+                "Tugas dan tanggung jawab Badan Penanggulangan Bencana Daerah",
+                "Apa saja fungsi BPBD?",
+                "Apa saja fungsi Badan Penanggulangan Bencana Daerah?",
+                "Peran BPBD",
+                "Peran Badan Penanggulangan Bencana Daerah",
+                "Apa itu BPBD",
+                "Jelaskan BPBD"
+            ],
+            "responses": [
+                "Badan Penanggulangan Bencana Daerah (BPBD) adalah lembaga yang berfungsi sebagai koordinator utama dalam menghadapi bencana alam dan kecelakaan di tingkat daerah. BPBD mempunyai tugas membantu Bupati dalam pengkoordinasian, fasilitasi perumusan kebijakan dan pelaksanaan penanggulangan bencana yang menjadi kewenangan pemerintahan Daerah."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "bmkg",
+            "patterns": [
+                "Apa peran Badan Meteorologi Klimatologi dan Geofisika (BMKG)?",
+                "Apa fungsi utama BMKG dalam penanggulangan bencana?",
+                "Bagaimana BMKG berperan dalam menghadapi bencana alam?",
+                "Bisakah Anda menjelaskan tugas dan tanggung jawab BMKG?",
+                "Tugas dan tanggung jawab BMKG",
+                "Tugas dan tanggung jawab Badan Meteorologi Klimatologi dan Geofisika",
+                "Apa saja fungsi BMKG?",
+                "Apa saja fungsi Badan Meteorologi Klimatologi dan Geofisika?",
+                "Peran BMKG",
+                "Peran Badan Meteorologi Klimatologi dan Geofisika",
+                "Apa itu BMKG",
+                "Jelaskan BMKG"
+            ],
+            "responses": [
+                "BMKG adalah singkatan dari Badan Meteorologi, Klimatologi, dan Geofisika. Dalam melaksanakan tugasnya, BMKG berperan aktif dalam beberapa aspek, termasuk melakukan pembinaan teknis terkait kegiatan meteorologi, klimatologi, dan kualitas udara di stasiun geofisika, serta berpartisipasi dalam latihan penanggulangan bencana yang dilakukan Pemerintah Daerah. BMKG juga memantau dan memastikan status operasional peralatan sistem pengolahan dan analisis, serta melakukan pemeliharaan preventif terbatas sistem pengolahan dan analisis."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "pemerintah daerah",
+            "patterns": [
+                "Apa peran pemerintah daerah?",
+                "Apa fungsi utama pemerintah daerah dalam penanggulangan bencana?",
+                "Bagaimana pemerintah daerah berperan dalam menghadapi bencana alam?",
+                "Bisakah Anda menjelaskan tugas dan tanggung jawab pemerintah daerah?",
+                "Tugas dan tanggung jawab pemerintah daerah",
+                "Apa saja fungsi pemerintah daerah?",
+                "Peran pemerintah daerah"
+            ],
+            "responses": [
+                "Pemerintah daerah memiliki peran penting dalam bencana gempa bumi, terutama dalam fase rehabilitasi dan rekonstruksi. Mereka bertanggung jawab dalam menjamin kelancaran pelaksanaan kegiatan rehabilitasi dan rekonstruksi, melakukan pendataan kerusakan, menetapkan data kerusakan rumah masyarakat dan fasilitas pelayanan publik, serta mengusulkan rencana kebutuhan rehabilitasi dan rekonstruksi pasca bencana gempa bumi kepada "
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "basarnas",
+            "patterns": [
+                "Apa peran Badan Nasional Pencarian dan Pertolongan (BASARNAS)?",
+                "Apa fungsi utama BASARNAS dalam penanggulangan bencana?",
+                "Bagaimana BASARNAS berperan dalam menghadapi bencana alam?",
+                "Bisakah Anda menjelaskan tugas dan tanggung jawab BASARNAS?",
+                "Tugas dan tanggung jawab BASARNAS",
+                "Tugas dan tanggung jawab Badan Nasional Pencarian dan Pertolongan",
+                "Apa saja fungsi BASARNAS?",
+                "Apa saja fungsi Badan Nasional Pencarian dan Pertolongan?",
+                "Peran BASARNAS",
+                "Peran Badan Nasional Pencarian dan Pertolongan",
+                "Apa itu BASARNAS",
+                "Jelaskan BASARNAS"
+            ],
+            "responses": [
+                "Basarnas, singkatan dari Badan Pencarian dan Pertolongan Nasional adalah lembaga non-kementerian yang berfungsi sebagai garda terdepan dalam membantu kecelakaan, bencana alam, dan insiden penting lainnya. Dalam situasi bencana gempa, Basarnas berperan sebagai petugas yang melakukan operasi penyelamatan, pencarian, dan pertolongan. Mereka berfungsi sebagai jembatan penghubung koordinasi dengan instansi terkait untuk meningkatkan proses evakuasi dan membantu masyarakat dalam mengatasi dampak bencana."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "pmi",
+            "patterns": [
+                "Apa peran Palang Merah Indonesia (PMI)?",
+                "Apa fungsi utama PMI dalam penanggulangan bencana?",
+                "Bagaimana PMI berperan dalam menghadapi bencana alam?",
+                "Bisakah Anda menjelaskan tugas dan tanggung jawab PMI?",
+                "Tugas dan tanggung jawab PMI",
+                "Tugas dan tanggung jawab Palang Merah Indonesia",
+                "Apa saja fungsi PMI?",
+                "Apa saja fungsi Palang Merah Indonesia?",
+                "Peran PMI",
+                "Peran Palang Merah Indonesia",
+                "Apa itu PMI",
+                "Jelaskan PMI"
+            ],
+            "responses": [
+                "Tugas pokok Palang Merah Indonesia (PMI) adalah membantu pemerintah Indonesia di bidang sosial kemanusiaan terutama tugas-tugas kepalangmerahan yang meliputi: Kesiapsiagaan Bantuan dan Penanggulangan Bencana, Pelatihan Pertolongan Pertama untuk Sukarelawan, Pelayanan Kesehatan dan Kesejahteraan Masyarakat, Pelayanan Transfusi Darah."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "relawan",
+            "patterns": [
+                "Apa peran relawan?",
+                "Apa fungsi utama relawan dalam penanggulangan bencana?",
+                "Bagaimana relawan berperan dalam menghadapi bencana alam?",
+                "Bisakah Anda menjelaskan tugas dan tanggung jawab relawan?",
+                "Tugas dan tanggung jawab relawan",
+                "Apa saja fungsi relawan?",
+                "Peran relawan"
+            ],
+            "responses": [
+                "Relawan adalah individu yang berpartisipasi secara sukarela dalam upaya penanggulangan bencana, seperti gempa bumi. Mereka berperan sebagai tim penolong yang membantu korban."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "peran_yang_bisa_dilakukan",
+            "patterns": [
+                "Apa yang bisa saya lakukan untuk korban pasca gempa",
+                "Apa yang bisa saya lakukan untuk membantu korban pasca gempa?",
+                "Bagaimana saya dapat memberikan kontribusi kepada korban gempa?",
+                "Apakah ada cara bagi saya untuk membantu meringankan beban korban pasca gempa?",
+                "Saya ingin memberikan dukungan kepada korban gempa, apa yang bisa saya lakukan?",
+                "Adakah peran yang dapat saya ambil untuk mendukung korban gempa bumi?",
+                "Peran apa yang bisa saya lakukan?"
+            ],
+            "responses": [
+                "Ada beberapa peran yang bisa Anda lakukan untuk membantu korban pasca gempa. Salah satunya adalah dengan memberikan donasi kepada lembaga yang terpercaya. Donasi ini dapat digunakan untuk meringankan beban korban dalam hal material seperti perlengkapan hidup sehari-hari, tempat tinggal darurat, dan perawatan kesehatan. Selain itu, Anda juga bisa menjadi relawan untuk membantu pemerintah atau organisasi kemanusiaan dalam menangani pengungsian korban gempa. Dengan bergabung sebagai relawan, Anda dapat memberikan bantuan langsung kepada korban seperti pendistribusian bantuan, merawat anak-anak atau lansia, serta membantu dalam proses pemulihan dan rekonstruksi. Setiap kontribusi Anda, baik dalam bentuk donasi maupun menjadi relawan, sangat berarti bagi mereka yang terdampak gempa."
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
