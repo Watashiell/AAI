@@ -54,7 +54,9 @@ Tema : Siaga Gempa Bumi
 ### 2. Problem
 Masalah : 
 
-Gempa bumi, sebagai fenomena alam yang tidak dapat diprediksi secara pasti, terus menjadi ancaman serius bagi kehidupan manusia dan infrastruktur di Indonesia. Meskipun telah ada kemajuan dalam pemahaman gempa dan upaya mitigasi risiko, sejumlah tantangan kritis masih harus diatasi. Selain itu, pemahaman masyarakat mengenai ketahanan infrastruktur terhadap gempa masih terbilang minim. Penelitian prediksi gempa, pendidikan masyarakat dan pemulihan pasca-gempa juga merupakan masalah yang memerlukan perhatian lebih.Oleh karna itu, pernyataan awal masalah ini mendukung penelitian prediksi gempa dan memperkuat upaya pemulihan pasca-gempa untuk mengurangi dampak negatif gempa bumi pada manusia, ekonomi dan lingkungan, dan menyoroti perlunya fokus lebih lanjut dalam meningkatkan pemahaman masyarakat  terhadap ketahanan infrastruktur
+Terlambatnya peringatan gempa menyebabkan kesulitan evakuasi, sementara distribusi bantuan yang tidak merata memperburuk situasi di wilayah pelosok yang terabaikan. Proses evakuasi yang lambat dan tidak terorganisir, disertai respons darurat yang tidak efektif, mengakibatkan kerugian dan kesulitan bagi korban gempa. Raihan juga mengalami kesulitan mengakses informasi terkini, menyoroti kekurangan dalam sistem informasi yang dapat diandalkan.
+
+Dengan demikian, permasalahan terkait ketidakefisienan sistem peringatan, distribusi bantuan, evakuasi, respons darurat, dan keterbatasan informasi menjadi fokus utama dalam upaya perbaikan dan peningkatan kesiapsiagaan terhadap gempa bumi di Indonesia.
 
 ### 3. Solution
 Solusi : 
